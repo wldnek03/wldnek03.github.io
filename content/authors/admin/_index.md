@@ -10,7 +10,7 @@ role: '전북대학교 IT지능정보공학과 학생'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✏️
 
 # Organizations/Affiliations
 #organizations:
