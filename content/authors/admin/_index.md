@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 이지우 (李知祐)
+title: 이지우
 
 # Is this the primary user of the site?
 superuser: true
