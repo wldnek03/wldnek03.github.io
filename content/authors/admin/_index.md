@@ -51,7 +51,7 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/channel/UC6IHApRXqr04NoG6cZYWkjg?si=8AbtlfreJzhk4oP6  
-  - icon: naver
+  - icon: blog
     icon_pack: fab
     link: https://blog.naver.com/wldnek03
   - icon: instagram
