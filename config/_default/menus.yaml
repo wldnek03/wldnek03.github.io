@@ -16,14 +16,15 @@ main:
       - name: 학력
         url: /resume/education/
   - name: 프로젝트
-      sub:
+    url: /project/
+    weight: 30
+    sub:
       - name: LDPC coding
         url: /project/recommendation/
       - name: Computer Network
         url: /project/cartoon/
       - name: Network Slicing
         url: /project/cosmetics/
-    weight: 30
   - name: SNS
     url: /sns/
     weight: 40
