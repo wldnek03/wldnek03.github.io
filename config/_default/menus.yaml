@@ -10,3 +10,12 @@ main:
   - name: 이력서
     url: about/
     weight: 20
+  - name: 프로젝트
+    url: /
+    weight: 30
+  - name: SNS
+    url: /
+    weight: 40
+  - name: 자격증 및 기술
+    url: /
+    weight: 50
