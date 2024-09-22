@@ -42,6 +42,6 @@ main:
       - name: 기술
         url: /technologies/
   - name: 지도
-    url: /
+    url: /map/
     weight: 60
 
