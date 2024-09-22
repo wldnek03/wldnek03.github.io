@@ -16,7 +16,7 @@ main:
       - name: 학력
         url: /resume/education/
   - name: 프로젝트
-    url: /
+    url: /project/
     weight: 30
     sub:
       - name: LDPC coding
