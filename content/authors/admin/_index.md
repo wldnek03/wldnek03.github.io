@@ -51,6 +51,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/wldnek03
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
