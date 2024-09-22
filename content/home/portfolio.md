@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: LDPC coding
       tag: ML
-    - name: Computer Vision
+    - name: Computer Network
       tag: CV
-    - name: NLP
+    - name: Network Slicing
       tag: NLP
 
 design:
