@@ -7,15 +7,43 @@ main:
   - name: Home
     url: /
     weight: 10
+    sub:
+      - name: 소개
+        url: /about/
+      - name: 팀
+        url: /team/
   - name: 이력서
     url: about/
     weight: 20
+    sub:
+      - name: 경력
+        url: /resume/experience/
+      - name: 학력
+        url: /resume/education/
   - name: 프로젝트
     url: /
     weight: 30
+    sub:
+      - name: LDPC coding
+        url: /projects/current/
+      - name: Computer Network
+        url: /projects/completed/
+      - name: Network Slicing
+        url: /projects/completed/
   - name: SNS
     url: /
     weight: 40
+    sub:
+      - name: 블로그
+        url: https://blog.naver.com/wldnek03
+      - name: 인스타그램
+        url: https://www.instagram.com/easy._.cow/?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr
   - name: 자격증 및 기술
     url: /
     weight: 50
+    sub:
+      - name: 자격증
+        url: /certifications/
+      - name: 기술
+        url: /technologies/
+
