@@ -45,13 +45,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: internet explorer
+  - icon: explorer
     icon_pack: fab
-    link: https://csai.jbnu.ac.kr/csai/index.do
+    link: https://csai.jbnu.ac.kr/csai/index.do`
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/channel/UC6IHApRXqr04NoG6cZYWkjg?si=8AbtlfreJzhk4oP6  
-  - icon: naver blog
+  - icon: naver
     icon_pack: fab
     link: https://blog.naver.com/wldnek03
   - icon: instagram
