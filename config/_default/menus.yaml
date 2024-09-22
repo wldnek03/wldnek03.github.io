@@ -26,7 +26,7 @@ main:
       - name: Network Slicing
         url: /projects/completed/
   - name: SNS
-    url: /
+    url: sns/
     weight: 40
     sub:
       - name: 블로그
