@@ -7,11 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-    sub:
-      - name: 소개
-        url: /about/
-      - name: 팀
-        url: /team/
   - name: 이력서
     url: about/
     weight: 20
@@ -46,4 +41,7 @@ main:
         url: /certifications/
       - name: 기술
         url: /technologies/
+  - name: 지도
+    url: /
+    weight: 60
 
