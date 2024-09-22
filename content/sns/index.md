@@ -2,8 +2,7 @@
 title: "SNS"
 ---
 
-<h2 style="color: #2ecc71;">Welcome to <strong>이지우</strong> SNS</h2>
-<h1 style="color: #e74c3c;">SNS</h1>
+## 🌟 Welcome to **이지우** SNS 🌟
 
 ---
 
