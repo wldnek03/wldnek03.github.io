@@ -20,11 +20,11 @@ main:
     weight: 30
     sub:
       - name: LDPC coding
-        url: /projects/current/
+        url: /project/recommendation/
       - name: Computer Network
-        url: /projects/completed/
+        url: /project/cartoon/
       - name: Network Slicing
-        url: /projects/completed/
+        url: /project/cosmetics/
   - name: SNS
     url: /sns/
     weight: 40
