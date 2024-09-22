@@ -47,7 +47,7 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: microsoft
     icon_pack: fab
-    link: https://csai.jbnu.ac.kr/csai/index.do
+    link: https://csai.jbnu.ac.kr/
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/channel/UC6IHApRXqr04NoG6cZYWkjg?si=8AbtlfreJzhk4oP6  
