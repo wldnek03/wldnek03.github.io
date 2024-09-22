@@ -6,7 +6,7 @@ title: 이지우
 superuser: true
 
 # Role/position
-role: ''
+role: '전북대학교 IT지능정보공학과 학생'
 
 # Status emoji
 status:
