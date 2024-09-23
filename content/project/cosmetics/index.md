@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: Network Slicing
 summary: Write about your project here...
 tags:
   - NLP
