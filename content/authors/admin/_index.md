@@ -6,7 +6,8 @@ title: 이지우
 superuser: true
 
 # Role/position
-role: '전북대학교 IT지능정보공학과 학생'
+role: '전북대학교 IT지능정보공학과 학생
+          📞 tel.010-8690-4730'
 
 # Status emoji
 status:
