@@ -35,7 +35,9 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
+    show_logo: true
+    logo: 'JIWOO'
+    logo_link: '/'
     show_language: false
     show_day_night: true
     show_search: true
