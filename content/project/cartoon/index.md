@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: Computer Network
 summary: Write about your project here...
 tags:
   - CV
