@@ -36,8 +36,8 @@ header:
     enable: true
     align: r
     show_logo: true
-    logo: 'JIWOO'
-    logo_link: /
+    logo_text: 'JIWOO'
+    logo_link: '/'  
     show_language: false
     show_day_night: true
     show_search: true
