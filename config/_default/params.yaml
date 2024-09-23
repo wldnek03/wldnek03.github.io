@@ -57,6 +57,13 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+  languages:
+    - language: 'ko'
+      name: '한국어'
+    - language: 'en'
+      name: 'English'
+    - language: 'de'
+      name: 'Deutsch'
 
 # Site features
 
