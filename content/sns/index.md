@@ -5,7 +5,7 @@ title: "SNS"
 ## 🌟 Welcome to **이지우** SNS 🌟
 
 ---
-
+### 📞 [전화번호](tel.010-8690-4730)
 ### 🌐 [학교 홈페이지](https://csai.jbnu.ac.kr)
 
 ### ▶️ [유튜브](https://youtube.com/channel/UC6IHApRXqr04NoG6cZYWkjg?si=8AbtlfreJzhk4oP6)
