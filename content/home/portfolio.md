@@ -31,7 +31,7 @@ content:
       tag: '*'
     - name: LDPC coding
       tag: ML
-    - name: Computer Network
+    - name: Mobile Network
       tag: CV
     - name: Network Slicing
       tag: NLP
