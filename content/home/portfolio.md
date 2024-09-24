@@ -29,22 +29,22 @@ content:
   - block: markdown
     content:
       title: 'Image Slider'
-      text: |
-        <div class="slider">
-          <div><img src="computer.jpg" alt="Image 1"></div>
-          <div><img src="LDPC.jpg" alt="Image 2"></div>
-          <div><img src="slice.jpg" alt="Image 3"></div>
-        </div>
-        <script>
-          $(document).ready(function(){
-            $('.slider').slick({
-              autoplay: true,
-              dots: true,
-            });
-          });
-        </script>
+      text: 
     design:
       columns: '1'
+      background:
+        image:
+        filename: computer.jpg
+        filters:
+          brightness: 1
+        parallax: false
+        position: center
+        size: cover
+        text_color_light: true
+    spacing:
+      padding: ['20px', '0', '20px', '0']
+     css_class: fullscreen        
+
   filter_button:
     - name: All
       tag: '*'
