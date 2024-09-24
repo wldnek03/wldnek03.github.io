@@ -1,0 +1,16 @@
+<nav>
+    <ul>
+      {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .url }}">{{ .name }}</a>
+          {{ if .children }} 
+              {{ range .children }}
+                <li><a href="{{ .url }}">{{ .name }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+  
