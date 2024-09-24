@@ -10,7 +10,7 @@ main:
   - name: 이력서
     url: about/
     weight: 20
-    sub:
+    children:
       - name: 경력
         url: /resume/experience/
       - name: 학력
@@ -18,7 +18,7 @@ main:
   - name: 프로젝트
     url: /project/
     weight: 30
-    sub:
+    children:
       - name: LDPC coding
         url: /project/recommendation/
       - name: Computer Network
@@ -28,7 +28,7 @@ main:
   - name: SNS
     url: /sns/
     weight: 40
-    sub:
+    children:
       - name: 블로그
         url: https://blog.naver.com/wldnek03
       - name: 인스타그램
@@ -36,7 +36,7 @@ main:
   - name: 자격증 및 기술
     url: /
     weight: 50
-    sub:
+    children:
       - name: 자격증
         url: /certifications/
       - name: 기술
