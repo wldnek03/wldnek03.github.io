@@ -26,6 +26,25 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
+  - block: markdown
+    content:
+      title: 'Image Slider'
+      text: |
+        <div class="slider">
+          <div><img src="computer.jpg" alt="Image 1"></div>
+          <div><img src="LDPC.jpg" alt="Image 2"></div>
+          <div><img src="slice.jpg" alt="Image 3"></div>
+        </div>
+        <script>
+          $(document).ready(function(){
+            $('.slider').slick({
+              autoplay: true,
+              dots: true,
+            });
+          });
+        </script>
+    design:
+      columns: '1'
   filter_button:
     - name: All
       tag: '*'
