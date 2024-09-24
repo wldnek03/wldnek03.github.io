@@ -62,8 +62,6 @@ locale:
       name: '한국어'
     - language: 'en'
       name: 'English'
-    - language: 'de'
-      name: 'Deutsch'
 
 # Site features
 
