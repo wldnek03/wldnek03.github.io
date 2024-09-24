@@ -2,11 +2,11 @@
 // https://hugoblox.com/hugo-themes/
 
 body {
-  background-color: rgba(246, 237, 178, 1);
+  background-color: rgb(255, 255, 255);
 }
 f9e8b2
 .article-container {
-  background-color: #b2f1cd;
+  background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
 }
 
@@ -16,7 +16,7 @@ f9e8b2
 
 // custom footer color
 .page-footer {
-  background-color: #b2f1cd;
+  background-color: hwb(0 100% 0%);
 }
 
 .dark .page-footer {
