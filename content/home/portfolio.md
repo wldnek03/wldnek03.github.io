@@ -25,25 +25,7 @@ content:
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  - block: markdown
-    content:
-      title: 'Image Slider'
-      text: 
-    design:
-      columns: '1'
-      background:
-        image:
-        filename: computer.jpg
-        filters:
-          brightness: 1
-        parallax: false
-        position: center
-        size: cover
-        text_color_light: true
-    spacing:
-      padding: ['20px', '0', '20px', '0']
-     css_class: fullscreen        
+  # To remove the toolbar, delete the entire `filter_button` block.      
 
   filter_button:
     - name: All
