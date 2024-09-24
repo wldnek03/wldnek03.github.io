@@ -5,7 +5,18 @@
 # Default language
 en:
   languageCode: en-us
-  languageCode: ko
+  languageName: "English"
+  weight: 2
+  params:
+    description: "This is the English version of the site."
+
+ko:
+  languageCode: ko-kr
+  languageName: "한국어"
+  weight: 1
+  params:
+    description: "이 사이트의 한국어 버전입니다."
+
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
