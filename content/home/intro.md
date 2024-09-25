@@ -25,8 +25,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title:  Mobile Network 
+        content: 모바일 네트워크는 이동성과 접근성을 제공하며, 5G 기술의 발전으로 빠르고 효율적인 통신을 가능하게 하여 미래의 네트워크 혁신을 이끌고 있습니다.
         align: center
         background:
           image:
@@ -35,7 +35,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: LDPC coding
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -45,7 +45,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: Network Slicing
         content: 'Just opened last month!'
         align: right
         background:
