@@ -30,7 +30,7 @@ sections:
         align: center
         background:
           image:
-            filename: computer.jpg
+            filename: C:\Users\wldne\Desktop\wldnek03.github.io\content\home\computer.jpg
             filters:
               brightness: 0.7
           position: right
@@ -40,7 +40,7 @@ sections:
         align: left
         background:
           image:
-            filename: LDPC.jpg
+            filename: C:\Users\wldne\Desktop\wldnek03.github.io\content\home\LDPC.jpg
             filters:
               brightness: 0.7
           position: center
@@ -50,7 +50,7 @@ sections:
         align: right
         background:
           image:
-            filename: slice.jpg
+            filename: C:\Users\wldne\Desktop\wldnek03.github.io\content\home\slice.jpg
             filters:
               brightness: 0.5
           position: center
