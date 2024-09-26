@@ -8,55 +8,39 @@ main:
     url: /
     weight: 10
   - name: 이력서
-    url: about/
-    weight:
-    children:
-      - name: 경력
-        url: /resume/experience/
-        weight: 10
-      - name: 학력
-        url: /resume/education/
-        weight: 20
+    weight: 20
+    hasChildren: true
+  -parent: 이력서
+    name: 경력
+    url: /resume/experience/
+    weight: 10
+    name: 학력
+    url: /resume/education/
+    weight: 20
   - name: 프로젝트
-    url: /project/
     weight: 30
-    children:
-      - name: LDPC coding
-        url: /project/recommendation/
-        weight: 10
-      - name: Computer Network
-        url: /project/cartoon/
-        weight: 20
-      - name: Network Slicing
-        url: /project/cosmetics/
-        weight: 30
+    hasChildren: true
+  -parent: 프로젝트
+    name: LDPC coding
+    url: /project/recommendation/
+    weight: 10
+    name: Computer Network
+    url: /project/cartoon/
+    weight: 20
+    name: Network Slicing
+    url: /project/cosmetics/
+    weight: 30
   - name: SNS
     url: /sns/
-    weight: 40
-    children:
-      - name: 학교 홈페이지
-        url: https://csai.jbnu.ac.kr
-        weight: 10
-      - name: youtube
-        url: https://youtube.com/channel/UC6IHApRXqr04NoG6cZYWkjg?si=8AbtlfreJzhk4oP6  
-        weight: 20
-      - name: 블로그
-        url: https://blog.naver.com/wldnek03
-        weight: 30
-      - name: 인스타그램
-        url: https://www.instagram.com/easy._.cow/?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr
-        weight: 40
-      - name: github
-        url: https://github.com/wldnek03   
-        weight: 50     
+    weight: 40   
   - name: 자격증 및 기술
-    url: /
     weight: 50
-    children:
-      - name: 자격증
-        url: /certifications/
-      - name: 기술
-        url: /technologies/
+    hasChildren: true
+  -parent: 자격증 및 기술
+    name: 자격증
+    url: /certifications/
+    name: 기술
+    url: /technologies/
   - name: 지도
     url: /map/
     weight: 60
