@@ -12,7 +12,7 @@ sections:
         align: center
         background:
           image:
-            filename: computer.jpg
+            filename: brands/computer.jpg
             filters:
               brightness: 0.7
           position: right
@@ -22,7 +22,7 @@ sections:
         align: left
         background:
           image:
-            filename: LDPC.jpg
+            filename: brands/LDPC.jpg
             filters:
               brightness: 0.7
           position: center
@@ -32,7 +32,7 @@ sections:
         align: right
         background:
           image:
-            filename: slice.jpg
+            filename: brands/slice.jpg
             filters:
               brightness: 0.5
           position: center
