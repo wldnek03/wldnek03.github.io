@@ -1,53 +1,52 @@
 ---
-date: 2022-10-24
-
-type: landing
-
-sections:
-  - block: slider
-    content:
-      slides:
-      - title:  Mobile Network 
-        content: 모바일 네트워크는 이동성과 접근성을 제공하며, 5G 기술의 발전으로 빠르고 효율적인 통신을 가능하게 하여 미래의 네트워크 혁신을 이끌고 있습니다.
-        align: center
-        background:
-          image:
-            filename: brands/computer.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: LDPC coding
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: brands/LDPC.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: Network Slicing
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: brands/slice.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+title: "슬라이더"
 ---
+
+<div class="slider" style="position: relative; overflow: hidden;">
+  <div class="slide" style="background-image: url('/media/computer.jpg');">
+    <div class="content" style="text-align: center;">
+      <h2>Mobile Network</h2>
+      <p>모바일 네트워크는 이동성과 접근성을 제공하며...</p>
+    </div>
+  </div>
+  <div class="slide" style="background-image: url('/media/LDPC.jpg');">
+    <div class="content" style="text-align: left;">
+      <h2>LDPC coding</h2>
+      <p>Share your knowledge with the group...</p>
+    </div>
+  </div>
+  <div class="slide" style="background-image: url('/media/slice.jpg');">
+    <div class="content" style="text-align: right;">
+      <h2>Network Slicing</h2>
+      <p>Just opened last month!</p>
+    </div>
+  </div>
+  
+  <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+  <button class="next" onclick="moveSlide(1)">&#10095;</button>
+</div>
+
+<script>
+  let currentIndex = 0;
+  const slides = document.querySelectorAll('.slide');
+  const totalSlides = slides.length;
+
+  function showSlide(index) {
+    slides.forEach((slide, i) => {
+      slide.style.display = (i === index) ? 'block' : 'none';
+    });
+  }
+
+  function moveSlide(step) {
+    currentIndex = (currentIndex + step + totalSlides) % totalSlides;
+    showSlide(currentIndex);
+  }
+
+  function autoSlide() {
+    currentIndex = (currentIndex + 1) % totalSlides;
+    showSlide(currentIndex);
+  }
+
+  showSlide(currentIndex);
+  setInterval(autoSlide, 3000); // 3초마다 자동 전환
+</script>
