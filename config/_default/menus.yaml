@@ -10,7 +10,7 @@ main:
   - name: 이력서
     weight: 20
     hasChildren: true
-  -parent: 이력서
+  - parent: 이력서
     name: 경력
     url: /resume/experience/
     weight: 10
@@ -20,7 +20,7 @@ main:
   - name: 프로젝트
     weight: 30
     hasChildren: true
-  -parent: 프로젝트
+  - parent: 프로젝트
     name: LDPC coding
     url: /project/recommendation/
     weight: 10
@@ -36,7 +36,7 @@ main:
   - name: 자격증 및 기술
     weight: 50
     hasChildren: true
-  -parent: 자격증 및 기술
+  - parent: 자격증 및 기술
     name: 자격증
     url: /certifications/
     name: 기술
