@@ -30,12 +30,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
+      class: filter_button
     - name: LDPC coding
       tag: ML
+      class: filter_button
     - name: Mobile Network
       tag: CV
+      class: filter_button
     - name: Network Slicing
       tag: NLP
+      class: filter_button
 
 design:
   columns: '1'

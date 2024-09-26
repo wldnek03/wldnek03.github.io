@@ -116,15 +116,15 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
-button {
-  background-color: #043105; /* 기본 색 */
+.filter_button {
+  background-color: #043105; 
   color: white;
-  padding: 10px 20px;
+  padding: 10px 15px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
-button:hover {
+.filter_button:hover {
   background-color: #b7edba; /* 호버 시 색 변경 */
 }
