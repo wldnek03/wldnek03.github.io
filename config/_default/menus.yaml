@@ -14,6 +14,7 @@ main:
     name: 경력
     url: /resume/experience/
     weight: 10
+  - parent: 이력서
     name: 학력
     url: /resume/education/
     weight: 20
@@ -24,9 +25,11 @@ main:
     name: LDPC coding
     url: /project/recommendation/
     weight: 10
+  - parent: 프로젝트
     name: Computer Network
     url: /project/cartoon/
     weight: 20
+  - parent: 프로젝트
     name: Network Slicing
     url: /project/cosmetics/
     weight: 30
@@ -39,6 +42,7 @@ main:
   - parent: 자격증 및 기술
     name: 자격증
     url: /certifications/
+  - parent: 자격증 및 기술  
     name: 기술
     url: /technologies/
   - name: 지도
