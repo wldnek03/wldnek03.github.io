@@ -28,7 +28,7 @@ sections:
         align: center
         background:
           image:
-            filename: /content/home/computer.jpg
+            filename: computer.jpg
             filters:
               brightness: 0.7
           position: right
@@ -38,7 +38,7 @@ sections:
         align: left
         background:
           image:
-            filename: /content/home/LDPC.jpg
+            filename: LDPC.jpg
             filters:
               brightness: 0.7
           position: center
@@ -48,7 +48,7 @@ sections:
         align: right
         background:
           image:
-            filename: /content/home/slice.jpg
+            filename: slice.jpg
             filters:
               brightness: 0.5
           position: center
