@@ -12,11 +12,11 @@ main:
     hasChildren: true
   - parent: 이력서
     name: 경력
-    url: /resume/experience/
+    url: /about/experience/
     weight: 10
   - parent: 이력서
     name: 학력
-    url: /resume/education/
+    url: /about/education/
     weight: 20
   - name: 프로젝트
     weight: 30
@@ -41,10 +41,10 @@ main:
     hasChildren: true
   - parent: 자격증 및 기술
     name: 자격증
-    url: /certifications/
+    url: /
   - parent: 자격증 및 기술  
     name: 기술
-    url: /technologies/
+    url: /
   - name: 지도
     url: /map/
     weight: 60
