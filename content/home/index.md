@@ -6,4 +6,4 @@ type: widget_page
 headless: true
 ---
 
-{{< include "home/slider.md" >}}
+{{< slider "content/home/slider.md" >}}
