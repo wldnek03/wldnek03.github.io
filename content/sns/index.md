@@ -1,9 +1,5 @@
 ---
 title: "SNS"
-date: 2022-10-24
-type: landing
-image:
-  filename: sns.jpg
 ---
 
 ## 🌟 Welcome to **이지우** SNS 🌟
