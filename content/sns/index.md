@@ -31,14 +31,11 @@ sections:
       email: jiwoo030415@gmail.com
       phone: '010-8690-4730'
       autolink: true
-  - block: feature
-    content:         # 여기의 들여쓰기 수정
+  - block: markdown
+    content:
       title: 
-      items:
-        - title: Instagram
-          url: 'https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr'
-          icon: 'fa-brands fa-instagram'  # 아이콘을 표시할 경우
-        - title: GitHub
-          url: 'https://github.com/wldnek03'
-          icon: 'fa-brands fa-github'     # 아이콘을 표시할 경우
+      text: |
+        **Instagram**: [Instagram Link](https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr)  
+      **GitHub**: [GitHub Link](https://github.com/wldnek03)
+
 ---
