@@ -4,7 +4,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: slider
+  - block: hero
     content:
       title:
       image:
