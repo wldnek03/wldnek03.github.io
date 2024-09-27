@@ -19,11 +19,15 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: contain
+          size: cover  # 이 부분을 수정했습니다.
           text_color_light: true
       spacing:
         padding: ['10px', '0', '10px', '0']
-      css_class: fullscreen 
+      css_class:  # 이 부분을 비워두거나 다른 클래스를 사용해 보세요.
+      
+  - block: markdown
+    content:
+      title: SNS
       text: |
         **📸Instagram**: [Instagram Link](https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr)  
         **💻GitHub**: [GitHub Link](https://github.com/wldnek03)
