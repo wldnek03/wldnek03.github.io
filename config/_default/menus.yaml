@@ -48,3 +48,6 @@ main:
   - name: 지도
     url: /map/
     weight: 60
+  - name: 소개
+    url: /Introduce/
+    weight: 70
