@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 🌟 Welcome to **이지우** SNS 🌟
+      title: 🌟 Welcome to 이지우 SNS 🌟
       image:
         filename: sns.jpg
       text: 
