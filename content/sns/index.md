@@ -1,9 +1,16 @@
 ---
 title: "SNS"
+date: 2022-10-24
+type: landing
+
+sections:
+  - block: hero
+    content:
+      title: 🌟 Welcome to **이지우** SNS 🌟
+      image:
+        filename: sns.jpg
+      text: 
 ---
-
-## 🌟 Welcome to **이지우** SNS 🌟
-
 
 ### 🌐 [학교 홈페이지](https://csai.jbnu.ac.kr)
 
