@@ -1,4 +1,4 @@
----
+--- 
 title: SNS
 date: 2022-10-24
 
@@ -24,7 +24,7 @@ sections:
       spacing:
         padding: ['10px', '0', '10px', '0']
       css_class: fullscreen 
-sections:dl
+
   - block: markdown
     content:
       title: SNS
@@ -33,7 +33,4 @@ sections:dl
         **💻GitHub**: [GitHub Link](https://github.com/wldnek03)
         **☎️phone**: 010-8690-4730
         **✉️email**: jiwoo030415@gmail.com
-
-
-
 ---
