@@ -19,11 +19,11 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover  # 이 부분을 수정했습니다.
+          size: cover  
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class:  # 이 부분을 비워두거나 다른 클래스를 사용해 보세요.
+      css_class: 
       
   - block: markdown
     content:
