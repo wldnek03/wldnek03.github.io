@@ -26,7 +26,7 @@ main:
     url: /project/recommendation/
     weight: 10
   - parent: 프로젝트
-    name: Computer Network
+    name: Mobile Network
     url: /project/cartoon/
     weight: 20
   - parent: 프로젝트
