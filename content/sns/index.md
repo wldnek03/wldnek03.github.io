@@ -36,6 +36,6 @@ sections:
       title: 
       text: |
         **Instagram**: [Instagram Link](https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr)  
-      **GitHub**: [GitHub Link](https://github.com/wldnek03)
+        **GitHub**: [GitHub Link](https://github.com/wldnek03)
 
 ---
