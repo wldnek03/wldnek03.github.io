@@ -9,7 +9,7 @@ sections:
     content:
       title: 🌟 Welcome to 이지우 SNS 🌟
       subtitle: ''
-      text:
+      text: '환영합니다!'
     design:
       columns: '1'
       background:
@@ -27,20 +27,18 @@ sections:
   - block: contact
     content:
       title: SNS
-      text: 
+      text: '문의 사항이 있으시면 아래로 연락 주세요.'
       email: jiwoo030415@gmail.com
-      phone: 010-8690-4730
+      phone: '010-8690-4730'
       autolink: true
   - block: feature
-  content:
-    title:
-    items:
-      - title: Instagram
-        url: 'https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr'
-        icon: 'fa-brands fa-instagram'  # 아이콘을 표시할 경우
-      - title: GitHub
-        url: 'https://github.com/wldnek03'
-        icon: 'fa-brands fa-github'     # 아이콘을 표시할 경우
-
-
+    content:         # 여기의 들여쓰기 수정
+      title: 
+      items:
+        - title: Instagram
+          url: 'https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr'
+          icon: 'fa-brands fa-instagram'  # 아이콘을 표시할 경우
+        - title: GitHub
+          url: 'https://github.com/wldnek03'
+          icon: 'fa-brands fa-github'     # 아이콘을 표시할 경우
 ---
