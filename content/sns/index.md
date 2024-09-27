@@ -24,10 +24,6 @@ sections:
       spacing:
         padding: ['10px', '0', '10px', '0']
       css_class: fullscreen 
-
-  - block: markdown
-    content:
-      title: SNS
       text: |
         **📸Instagram**: [Instagram Link](https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr)  
         **💻GitHub**: [GitHub Link](https://github.com/wldnek03)
