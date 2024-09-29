@@ -17,7 +17,7 @@ sections:
             filename: LDPC.jpg
             filters:
               brightness: 0.7
-          position: right
+          position: center  # 가운데 정렬로 설정
           color: '#666'
       - title: Mobile computer
         content: '모바일 네트워크는 이동성과 접근성을 제공하며, 5G 기술의 발전으로 빠르고 효율적인 통신을 가능하게 하여 미래의 네트워크 혁신을 이끌고 있습니다.'
@@ -45,7 +45,7 @@ sections:
           text: Join Us
           url: ../contact/
     design:
-      slide_height: '600px' 
+      slide_height: '400px'  
       is_fullscreen: false
       loop: false
       interval: 2000
