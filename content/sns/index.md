@@ -22,8 +22,6 @@ sections:
           size: cover
           height: '1000px'
           text_color_light: true
-      spacing:
-        padding: ['5px', '0', '5px', '0']
       css_class: 
 
   - block: markdown
