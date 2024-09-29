@@ -9,6 +9,7 @@ headless: true
 weight: 10
 
 author: admin
+introduce: sli
 #design:
 #  background:
 #    color: '#090a0b'
