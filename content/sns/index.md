@@ -19,11 +19,11 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: contain
+          size: cover
           height: '600px'
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['5px', '0', '5px', '0']
       css_class: 
 
   - block: markdown
