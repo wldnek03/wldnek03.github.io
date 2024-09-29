@@ -20,7 +20,7 @@ sections:
           parallax: false
           position: center
           size: cover
-          height: '1000px'
+          height: '1800px'
           text_color_light: true
       css_class: 
 
