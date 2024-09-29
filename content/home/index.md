@@ -45,10 +45,8 @@ sections:
           text: Join Us
           url: ../contact/
     design:
-      slide_height: '400px' 
+      slide_height: '600px' 
       is_fullscreen: false
-      # Automatically transition through slides?
       loop: false
-      # Duration of transition between slides (in ms)
       interval: 2000
 ---
