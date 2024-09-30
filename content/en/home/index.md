@@ -1,5 +1,4 @@
 ---
-title: "home"
 # Homepage
 type: widget_page
 
