@@ -28,6 +28,9 @@ defaultContentLanguage: ko
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
+params:
+  enableMultilingualMenu: true
+
 
 ############################
 ## ADVANCED
