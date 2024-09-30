@@ -4,14 +4,14 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: en
   languageName: "English"
   weight: 2
   params:
     description: "This is the English version of the site."
 
 ko:
-  languageCode: ko-kr
+  languageCode: ko
   languageName: "한국어"
   weight: 1
   params:

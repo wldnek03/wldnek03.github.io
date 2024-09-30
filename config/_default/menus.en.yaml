@@ -1,0 +1,45 @@
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: Resume
+    weight: 20
+    hasChildren: true
+  - parent: Resume
+    name: Experience
+    url: /about/
+    weight: 10
+  - parent: Resume
+    name: Education
+    url: /about/
+    weight: 20
+  - name: Projects
+    weight: 30
+    hasChildren: true
+  - parent: Projects
+    name: LDPC Coding
+    url: /project/recommendation/
+    weight: 10
+  - parent: Projects
+    name: Mobile Network
+    url: /project/cartoon/
+    weight: 20
+  - parent: Projects
+    name: Network Slicing
+    url: /project/cosmetics/
+    weight: 30
+  - name: SNS
+    url: /sns/
+    weight: 40
+  - name: Certifications and Skills
+    weight: 50
+    hasChildren: true
+  - parent: Certifications and Skills
+    name: Certifications
+    url: /
+  - parent: Certifications and Skills  
+    name: Skills
+    url: /
+  - name: Map
+    url: /map/
+    weight: 60
