@@ -9,6 +9,7 @@ headless: true
 weight: 10
 
 author: admin
+slides: example
 #design:
 #  background:
 #    color: '#090a0b'
