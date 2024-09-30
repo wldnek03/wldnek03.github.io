@@ -1,5 +1,4 @@
 ---
-widget: about.avatar
 headless: true
 weight: 30
 
