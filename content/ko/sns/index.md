@@ -1,10 +1,8 @@
---- 
+---
 title: SNS
-date: 2022-10-24
-banner:
+date: 2024-10-04
+header:
   image: 'https://images.unsplash.com/photo-1620293087949-b026c58aa946'
-type: landing
-
 sections:
   - block: markdown
     content:
