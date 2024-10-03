@@ -5,16 +5,22 @@ coordinates:
   longitude: '127.1295'
 ---
 <style>
-body {
+html, body {
   margin: 0; 
+  padding: 0;
+  height: 100%; 
 }
 
 .header-image {
   background-image: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81');
-  height: 200px;
+  height: 200px; 
   width: 100%; 
   background-size: cover;
   background-position: center;
+}
+
+h1 {
+  margin-top: 0;
 }
 </style>
 <div class="header-image">
