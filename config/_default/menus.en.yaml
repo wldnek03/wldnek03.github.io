@@ -24,14 +24,8 @@ main:
     url: /sns/
     weight: 40
   - name: Certifications and Skills
+    url: /license/
     weight: 50
-    hasChildren: true
-  - parent: Certifications and Skills
-    name: Certifications
-    url: /
-  - parent: Certifications and Skills  
-    name: Skills
-    url: /
   - name: Map
     url: /map/
     weight: 60
