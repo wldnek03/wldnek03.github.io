@@ -14,7 +14,7 @@ sections:
       columns: '2'
       background:
         image: 
-          filename: sns.jpg
+          filename: https://images.unsplash.com/photo-1620293087949-b026c58aa946?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c25zfGVufDB8fDB8fHww
           filters:
             brightness: 1
           parallax: false
