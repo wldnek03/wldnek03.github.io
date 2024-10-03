@@ -3,6 +3,7 @@ main:
     url: /
     weight: 10
   - name: Resume
+    url: /about/
     weight: 20
   - name: Projects
     weight: 30
