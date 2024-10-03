@@ -6,6 +6,7 @@ coordinates:
 
 type: landing
 
+sections:
   - block: markdown
     content:
       title: 🌟 Welcome to 이지우 SNS 🌟
