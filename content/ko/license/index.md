@@ -5,7 +5,6 @@ banner:
 
 widget: accomplishments
 
-
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
