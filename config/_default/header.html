@@ -1,9 +1,35 @@
-<nav>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }}</title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <style>
+    .carousel {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .carousel-content {
+      display: flex;
+      transition: transform 0.5s ease;
+    }
+
+    .carousel-content figure {
+      min-width: 100%;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <nav>
     <ul>
       {{ range .Site.Menus.main }}
         <li>
           <a href="{{ .url }}">{{ .name }}</a>
           {{ if .children }} 
+            <ul>
               {{ range .children }}
                 <li><a href="{{ .url }}">{{ .name }}</a></li>
               {{ end }}
@@ -13,4 +39,35 @@
       {{ end }}
     </ul>
   </nav>
-  
+
+  <div class="carousel">
+    <div class="carousel-content">
+      <figure>
+        <img src="/assets/media/image1.jpg" alt="슬라이더 이미지 1">
+        <figcaption>슬라이더 이미지 1 설명</figcaption>
+      </figure>
+      <figure>
+        <img src="/assets/media/image2.jpg" alt="슬라이더 이미지 2">
+        <figcaption>슬라이더 이미지 2 설명</figcaption>
+      </figure>
+      <figure>
+        <img src="/assets/media/image3.jpg" alt="슬라이더 이미지 3">
+        <figcaption>슬라이더 이미지 3 설명</figcaption>
+      </figure>
+    </div>
+    <button class="prev" onclick="moveSlide(-1)">❮</button>
+    <button class="next" onclick="moveSlide(1)">❯</button>
+  </div>
+
+  <script>
+    let currentIndex = 0;
+
+    function moveSlide(step) {
+      const slides = document.querySelectorAll('.carousel-content figure');
+      currentIndex = (currentIndex + step + slides.length) % slides.length;
+      const offset = -currentIndex * 100;
+      document.querySelector('.carousel-content').style.transform = `translateX(${offset}%)`;
+    }
+  </script>
+</body>
+</html>
