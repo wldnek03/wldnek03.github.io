@@ -5,9 +5,14 @@ coordinates:
   longitude: '127.1295'
 ---
 <style>
+body {
+  margin: 0; 
+}
+
 .header-image {
   background-image: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81');
   height: 200px;
+  width: 100%; 
   background-size: cover;
   background-position: center;
 }
