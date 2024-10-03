@@ -11,7 +11,6 @@ main:
     url: /about/
     weight: 20
   - name: 프로젝트
-    url: /project/
     weight: 30
     hasChildren: true
   - parent: 프로젝트
@@ -29,13 +28,9 @@ main:
   - name: SNS
     url: /sns/
     weight: 40   
-  - name: 자격증 및 기술
+  - name: 자격증
+    url: /license/
     weight: 50
-    hasChildren: true
-  - parent: 자격증 및 기술
-    name: 자격증
-    url: /
-  - parent: 자격증 및 기술  
     name: 기술
     url: /
   - name: 지도
