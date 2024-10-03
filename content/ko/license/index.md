@@ -1,5 +1,5 @@
 ---
-title: 자격증 소개
+title: "자격증"
 date: 2022-10-24
 
 type: landing
