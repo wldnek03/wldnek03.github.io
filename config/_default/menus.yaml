@@ -11,6 +11,7 @@ main:
     url: /about/
     weight: 20
   - name: 프로젝트
+    url: /project/
     weight: 30
     hasChildren: true
   - parent: 프로젝트
