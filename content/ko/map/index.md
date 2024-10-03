@@ -1,4 +1,24 @@
 ---
+sections:
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text: ''
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: map.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          height: '1800px'
+          text_color_light: true
+      css_class: 
+
 title: "School Map"
 coordinates:
   latitude: '35.8469'
