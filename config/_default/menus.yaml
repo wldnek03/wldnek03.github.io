@@ -9,15 +9,6 @@ main:
     weight: 10
   - name: 이력서
     weight: 20
-    hasChildren: true
-  - parent: 이력서
-    name: 경력
-    url: /about/
-    weight: 10
-  - parent: 이력서
-    name: 학력
-    url: /about/
-    weight: 20
   - name: 프로젝트
     weight: 30
     hasChildren: true

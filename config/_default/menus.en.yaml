@@ -4,15 +4,6 @@ main:
     weight: 10
   - name: Resume
     weight: 20
-    hasChildren: true
-  - parent: Resume
-    name: Experience
-    url: /about/
-    weight: 10
-  - parent: Resume
-    name: Education
-    url: /about/
-    weight: 20
   - name: Projects
     weight: 30
     hasChildren: true
