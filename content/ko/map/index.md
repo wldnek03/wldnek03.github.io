@@ -4,7 +4,6 @@ coordinates:
   latitude: '35.8469'
   longitude: '127.1295'
 ---
-
 <style>
 .header-image {
   background-image: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81');
@@ -13,12 +12,11 @@ coordinates:
   background-position: center;
 }
 </style>
-
 <div class="header-image">
-  <h1>MacsLAB</h1>
+
 </div>
 
-<p style="text-align: center;">Image credit: Unsplash</p>
+<h1 style="text-align: center;">School Map</h1> 
 
 <iframe 
     width="100%" 
