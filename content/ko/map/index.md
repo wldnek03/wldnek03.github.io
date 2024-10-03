@@ -6,8 +6,6 @@ coordinates:
   longitude: '127.1295'
 ---
 
----
-
 <iframe 
     width="100%" 
     height="500" 
