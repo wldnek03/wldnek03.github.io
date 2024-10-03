@@ -3,33 +3,35 @@ title: SNS
 date: 2022-10-24
 
 type: landing
+---
 
-sections:
-  - block: markdown
-    content:
-      title: 
-      subtitle: ''
-      text: ''
-    design:
-      columns: '2'
-      background:
-        image: 
-          filename: sns.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          height: '1800px'
-          text_color_light: true
-      css_class: 
+<style>
+html, body {
+  margin: 0; 
+  padding: 0;
+  height: 100%; 
+}
 
-  - block: markdown
-    content:
-      title: 🌟 Welcome to 이지우 SNS 🌟
-      text: |
-        <span style="font-size: 1.3em;">**📸Instagram**: [Instagram](https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr)</span><br>
-        <span style="font-size: 1.3em;">**💻GitHub**: [GitHub](https://github.com/wldnek03)</span><br>
-        <span style="font-size: 1.3em;">**☎️phone**: 010-8690-4730</span><br>
-        <span style="font-size: 1.3em;">**✉️email**: jiwoo030415@gmail.com</span>
---- 
+.header-image {
+  background-image: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81');
+  height: 200px; 
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+</style>
+
+<div class="header-image">
+  <h1>🌟 Welcome to 이지우 SNS 🌟</h1>
+</div>
+
+<div style="text-align: center; font-size: 1.3em; margin-top: 20px;">
+  <p><strong>📸Instagram</strong>: <a href="https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr">Instagram</a></p>
+  <p><strong>💻GitHub</strong>: <a href="https://github.com/wldnek03">GitHub</a></p>
+  <p><strong>☎️phone</strong>: 010-8690-4730</p>
+  <p><strong>✉️email</strong>: jiwoo030415@gmail.com</p>
+</div>
+---
