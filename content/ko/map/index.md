@@ -5,6 +5,21 @@ coordinates:
   longitude: '127.1295'
 ---
 
+<style>
+.header-image {
+  background-image: url('\assets\media\map.jpg');
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+</style>
+
+<div class="header-image">
+  <h1>MacsLAB</h1>
+</div>
+
+<p style="text-align: center;">Image credit: Unsplash</p>
+
 <iframe 
     width="100%" 
     height="500" 
