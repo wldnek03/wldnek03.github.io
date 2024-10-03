@@ -9,8 +9,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .carousel {
-            width: 100vw; /* Viewport width */
-            position: relative;
+            width: 100%;
+            position: relative; 
         }
     
         .carousel-control-prev-icon,
@@ -18,10 +18,16 @@
             background-color: black; 
         }
     
+        .carousel-item {
+            display: flex;
+            justify-content: center; 
+            align-items: center; 
+        }
+    
         .carousel-item img {
             width: 100%; 
             height: 600px; 
-            object-fit: cover; /* 비율을 유지하면서 중앙에 맞춰 잘림 */
+            object-fit: cover; /* 비율 유지하면서 잘림 */
         }
     </style>    
 </head>
