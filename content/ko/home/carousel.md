@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Hugo Site</title>
 
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .carousel-control-prev-icon,
         .carousel-control-next-icon {
@@ -46,7 +46,7 @@
         </div>
         <div class="carousel-item">
             <img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FD4E12AQHKEg8wMQqB2Q%2Farticle-cover_image-shrink_720_1280%2F0%2F1666023444578%3Fe%3D2147483647%26v%3Dbeta%26t%3DLtqVVBH-S9_dVCjNkE5pCUECshvI77AjKL4ygiyLASA&type=sc960_832" class="d-block w-100" alt="Second slide">
-            <div class="overlay">Mobile network</div>
+            <div class="overlay">Mobile Network</div>
         </div>
         <div class="carousel-item">
             <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20091013_61%2Fkaiser38_1255412195831oOtX5_jpg%2Fa_kaiser38.jpg&type=sc960_832" class="d-block w-100" alt="Third slide">
@@ -65,6 +65,5 @@
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-
 </body>
 </html>
