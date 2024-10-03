@@ -9,7 +9,6 @@ headless: true
 weight: 10
 
 author: admin
-slides: slide
 #design:
 #  background:
 #    color: '#090a0b'

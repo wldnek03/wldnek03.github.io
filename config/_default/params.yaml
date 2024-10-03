@@ -118,7 +118,3 @@ extensions:
     local_backend: false
   academicons:
     enable: false
-
-slides:
-  theme: white # Reveal JS theme name
-  highlight_style: github
