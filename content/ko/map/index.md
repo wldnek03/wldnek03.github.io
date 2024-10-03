@@ -1,5 +1,5 @@
 ---
-title: "School Map"
+title: ''
 coordinates:
   latitude: '35.8469'
   longitude: '127.1295'
@@ -7,7 +7,7 @@ coordinates:
 <style>
 .header-image {
   background-image: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81');
-  height: 400px;
+  height: 200px;
   background-size: cover;
   background-position: center;
 }
