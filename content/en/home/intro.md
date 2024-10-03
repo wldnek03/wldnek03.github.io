@@ -25,15 +25,15 @@ author: admin
     <input type="radio" name="carousel" id="slide3">
 
 <div class="carousel-content">
-  <div class="carousel-item" style="background-image: url('/media/LDPC.jpg');">
+  <div class="carousel-item" style="background-image: url('asset/media/LDPC.jpg');">
         <h2>LDPC</h2>
         <p>프로제트 내용적기</p>
       </div>
-      <div class="carousel-item" style="background-image: url('/media/computer.jpg');">
+      <div class="carousel-item" style="background-image: url('asset/media/computer.jpg');">
         <h2>Mobile computer</h2>
         <p>모바일 네트워크는 이동성과 접근성을 제공하며, 5G 기술의 발전으로 빠르고 효율적인 통신을 가능하게 하여 미래의 네트워크 혁신을 이끌고 있습니다.</p>
       </div>
-      <div class="carousel-item" style="background-image: url('/media/slice.jpg');">
+      <div class="carousel-item" style="background-image: url('asset/media/slice.jpg');">
         <h2>Network Slicing</h2>
         <p>내용적기</p>
       </div>
