@@ -9,6 +9,7 @@ headless: true
 weight: 10
 
 author: admin
+{{ partial "carousel.html" . }}
 
 #design:
 #  background:
