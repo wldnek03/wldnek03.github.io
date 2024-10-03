@@ -1,9 +1,29 @@
 --- 
 title: SNS
-banner:
-  image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85'
+date: 2022-10-24
+
+type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text: ''
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: sns.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          height: '1800px'
+          text_color_light: true
+      css_class: 
+
   - block: markdown
     content:
       title: 🌟 Welcome to 이지우 SNS 🌟
