@@ -11,7 +11,7 @@ sections:
       subtitle: ''
       text: ''
     design:
-      columns: '1'
+      columns: '2'
       background:
         image: 
           filename: sns.jpg
