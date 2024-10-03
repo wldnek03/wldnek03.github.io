@@ -12,7 +12,8 @@ weight: 10
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: ''
 subtitle:
-
+banner:
+  image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85'
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
