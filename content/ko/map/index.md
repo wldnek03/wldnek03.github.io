@@ -1,5 +1,7 @@
 ---
 title: 'School Map'
+banner:
+  image: 'https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81'
 coordinates:
   latitude: '35.8469'
   longitude: '127.1295'
