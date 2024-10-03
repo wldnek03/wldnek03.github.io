@@ -22,15 +22,15 @@ author: admin
 <div class="carousel">
   <div class="carousel-content">
     <figure>
-      <img src="/assets/media/image1.jpg" alt="슬라이더 이미지 1">
+      <img src="/C:\Users\wldne\Desktop\wldnek03.github.io\assets\media\image1.jpg" alt="슬라이더 이미지 1">
       <figcaption>슬라이더 이미지 1 설명</figcaption>
     </figure>
     <figure>
-      <img src="/assets/media/image2.jpg" alt="슬라이더 이미지 2">
+      <img src="C:\Users\wldne\Desktop\wldnek03.github.io\assets\media\image2.jpg" alt="슬라이더 이미지 2">
       <figcaption>슬라이더 이미지 2 설명</figcaption>
     </figure>
     <figure>
-      <img src="/assets/media/image3.jpg" alt="슬라이더 이미지 3">
+      <img src="C:\Users\wldne\Desktop\wldnek03.github.io\assets\media\image3.jpg" alt="슬라이더 이미지 3">
       <figcaption>슬라이더 이미지 3 설명</figcaption>
     </figure>
   </div>
