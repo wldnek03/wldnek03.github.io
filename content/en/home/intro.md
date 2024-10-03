@@ -24,8 +24,8 @@ author: admin
     <input type="radio" name="carousel" id="slide2">
     <input type="radio" name="carousel" id="slide3">
 
-    <div class="carousel-content">
-      <div class="carousel-item" style="background-image: url('/media/LDPC.jpg');">
+<div class="carousel-content">
+  <div class="carousel-item" style="background-image: url('/media/LDPC.jpg');">
         <h2>LDPC</h2>
         <p>프로제트 내용적기</p>
       </div>
@@ -39,7 +39,7 @@ author: admin
       </div>
     </div>
 
-    <div class="carousel-controls">
+<div class="carousel-controls">
       <label for="slide1"></label>
       <label for="slide2"></label>
       <label for="slide3"></label>
