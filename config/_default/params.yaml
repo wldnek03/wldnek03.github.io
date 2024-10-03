@@ -29,6 +29,12 @@ marketing:
     google: "google4935c02084243037"
     baidu: ''
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
 # Site header
 
 header:
