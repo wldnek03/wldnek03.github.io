@@ -1,8 +1,8 @@
----
+--- 
 title: SNS
-date: 2024-10-04
-header:
-  image: 'https://images.unsplash.com/photo-1620293087949-b026c58aa946'
+banner:
+  image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85'
+
 sections:
   - block: markdown
     content:
