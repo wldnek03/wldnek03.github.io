@@ -1,9 +1,9 @@
 ---
 title: "자격증"
 date: 2022-10-24
-
 type: landing
 ---
+
 <style>
 html, body {
   margin: 0; 
