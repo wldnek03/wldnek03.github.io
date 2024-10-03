@@ -18,106 +18,135 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
-<div class="carousel-container">
-  <div class="carousel-slide">
-    <input type="radio" name="carousel" id="slide1" checked>
-    <input type="radio" name="carousel" id="slide2">
-    <input type="radio" name="carousel" id="slide3">
 
-<div class="carousel-content">
-      <div class="carousel-item" style="background-image: url('C:\Users\wldne\Desktop\wldnek03.github.io\assets\media\LDPC.jpg');">
-        <h2>LDPC</h2>
-        <p>프로제트 내용적기</p>
-      </div>
-      <div class="carousel-item" style="background-image: url('C:\Users\wldne\Desktop\wldnek03.github.io\assets\media\computer.jpg');">
-        <h2>Mobile computer</h2>
-        <p>모바일 네트워크는 이동성과 접근성을 제공하며, 5G 기술의 발전으로 빠르고 효율적인 통신을 가능하게 하여 미래의 네트워크 혁신을 이끌고 있습니다.</p>
-      </div>
-      <div class="carousel-item" style="background-image: url('C:\Users\wldne\Desktop\wldnek03.github.io\assets\media\slice.jpg');">
-        <h2>Network Slicing</h2>
-        <p>내용적기</p>
-      </div>
-    </div>
+<form>
+    <input type="radio" name="fancy" autofocus value="clubs" id="clubs" />
+    <input type="radio" name="fancy" value="hearts" id="hearts" />
+    <input type="radio" name="fancy" value="spades" id="spades" />
+    <input type="radio" name="fancy" value="diamonds" id="diamonds" />      
 
-<div class="carousel-controls">
-      <label for="slide1"></label>
-      <label for="slide2"></label>
-      <label for="slide3"></label>
-    </div>
-  </div>
-</div>
+    <label for="clubs">&#9827; Clubs</label>
+    <label for="hearts">&#9829; Hearts</label>
+    <label for="spades">&#9824; Spades</label>
+    <label for="diamonds">&#9830; Diamonds</label>
+
+    <div class="keys">Use left and right keys to navigate</div>
+</form>
 
 <style>
-.carousel-container {
-  width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
-  position: relative;
-}
+    * {
+        box-sizing: border-box;
+    }
 
-.carousel-slide {
-  display: flex;
-  overflow: hidden;
-  position: relative;
-}
+    body {
+        font-family: sans-serif;
+        overflow: hidden;
+    }
 
-.carousel-content {
-  display: flex;
-  width: 300%;
-  transition: transform 0.5s ease;
-}
+    label {
+        background: #444;
+        color: #fff;
+        transition: transform 400ms ease-out;
+        display: inline-block;
+        min-height: 100%;
+        width: 100vw;
+        height: 100vh;
+        position: relative;
+        z-index: 1;
+        text-align: center;
+        line-height: 100vh;
+        font-size: 3rem;
+    }
 
-.carousel-item {
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 400px;
-  color: white;
-  text-align: center;
-}
+    form {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        white-space: nowrap;
+    }
 
-input[type="radio"] {
-  display: none;
-}
+    input {
+        position: absolute;
+    }
 
-input#slide1:checked ~ .carousel-content {
-  transform: translateX(0%);
-}
+    .keys {
+        position: fixed;
+        z-index: 10;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 1rem;
+        color: #fff;
+        text-align: center;
+        transition: all 300ms linear;
+        opacity: 0;
+    }
 
-input#slide2:checked ~ .carousel-content {
-  transform: translateX(-33.33%);
-}
+    input:focus ~ .keys {
+        opacity: 0.8;
+    }
 
-input#slide3:checked ~ .carousel-content {
-  transform: translateX(-66.66%);
-}
+    input:nth-of-type(1):checked ~ label:nth-of-type(1), 
+    input:nth-of-type(2):checked ~ label:nth-of-type(2),
+    input:nth-of-type(3):checked ~ label:nth-of-type(3),
+    input:nth-of-type(4):checked ~ label:nth-of-type(4) {
+        z-index: 0;
+    }
 
-.carousel-controls {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  display: flex;
-  gap: 10px;
-}
+    input:nth-of-type(1):checked ~ label {
+        transform: translate3d(0, 0, 0);
+    }
 
-.carousel-controls label {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  background-color: white;
-  border-radius: 50%;
-  cursor: pointer;
-}
+    input:nth-of-type(2):checked ~ label {
+        transform: translate3d(-100%, 0, 0);
+    }
 
-.carousel-controls label:hover {
-  background-color: #999;
-}
+    input:nth-of-type(3):checked ~ label {
+        transform: translate3d(-200%, 0, 0);
+    }
+
+    input:nth-of-type(4):checked ~ label {
+        transform: translate3d(-300%, 0, 0);
+    }
+
+    label[for="diamonds"],
+    label[for="hearts"] {
+        background: #cc0000;
+    }
+
+    label:before,
+    label:after {
+        color: white;
+        display: block;
+        background: rgba(255, 255, 255, 0.2);
+        position: absolute;
+        padding: 1rem;
+        font-size: 3rem;
+        height: 10rem;
+        vertical-align: middle;
+        line-height: 10rem;
+        top: 50%;
+        transform: translate3d(0, -50%, 0);
+        cursor: pointer;
+    }
+
+    label:before {
+        content: "\276D"; /* Left arrow */
+        right: 100%;
+        border-top-left-radius: 50%;
+        border-bottom-left-radius: 50%;
+    }
+
+    label:after {
+        content: "\276C"; /* Right arrow */
+        left: 100%;
+        border-top-right-radius: 50%;
+        border-bottom-right-radius: 50%;
+    }
 </style>
+
 
 👋 Hi, I'm **Jiwoo**. I'm doing research regarding communications and networks.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
