@@ -14,7 +14,12 @@ html, body {
 .header-image {
   background-image: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81');
   height: 200px; 
-  width: 100%; 
+  width: 100vw;  
+  position: relative;
+  left: 50%; 
+  right: 50%;
+  margin-left: -50vw; 
+  margin-right: -50vw; 
   background-size: cover;
   background-position: center;
 }
