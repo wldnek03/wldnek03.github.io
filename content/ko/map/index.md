@@ -7,16 +7,12 @@ coordinates:
 
 <style>
 .header-image {
-  background-image: url('\assets\media\map.jpg');
+  background-image: url('/assets/media/map.jpg');
   height: 400px;
   background-size: cover;
   background-position: center;
 }
 </style>
-
-<div class="header-image">
-  <h1>MacsLAB</h1>
-</div>
 
 <p style="text-align: center;">Image credit: Unsplash</p>
 
