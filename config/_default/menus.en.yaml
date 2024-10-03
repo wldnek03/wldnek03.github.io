@@ -23,7 +23,7 @@ main:
   - name: SNS
     url: /sns/
     weight: 40
-  - name: Certifications and Skills
+  - name: Certifications
     url: /license/
     weight: 50
   - name: Map
