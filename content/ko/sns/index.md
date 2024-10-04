@@ -5,11 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-   - block: markdown
+  - block: markdown
     content:
-      title:
+      title: 
       subtitle: ''
-      text:
+      text: ''
     design:
       columns: '1'
       background:
@@ -24,7 +24,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
 
   - block: markdown
     content:
