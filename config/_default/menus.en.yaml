@@ -20,9 +20,15 @@ main:
     name: Network Slicing
     url: /project/cosmetics/
     weight: 30
-  - name: SNS
-    url: /sns/
-    weight: 40
+  - name: Inform
+    weight: 40  
+    hasChildren: true
+  - parent: Inform
+    name: Notice
+    url: /sns/notice/
+  - parent: Inform
+    name: SNS
+    url: /sns/Sns/
   - name: Certifications
     url: /license/
     weight: 50
