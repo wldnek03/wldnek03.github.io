@@ -2,8 +2,27 @@
 title: SNS
 date: 2022-10-24
 
+type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text: ''
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: sns.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          height: '1800px'
+          text_color_light: true
+      css_class: 
 
   - block: markdown
     content:
