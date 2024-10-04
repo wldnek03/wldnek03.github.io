@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: JIWOO # Website name
-baseURL: 'https://wldnek03.github.io/' # Website URL
+baseURL: 'https://wldnek03.github.io/ko' # Website URL
 
 ############################
 ## PAGE OPTIONS
