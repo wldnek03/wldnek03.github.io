@@ -31,6 +31,6 @@ main:
   - name: 자격증
     url: /license/
     weight: 50
-  - name: 지도
+  - name: Contact
     url: /map/
     weight: 60

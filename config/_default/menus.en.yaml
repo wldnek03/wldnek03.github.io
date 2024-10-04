@@ -26,6 +26,6 @@ main:
   - name: Certifications
     url: /license/
     weight: 50
-  - name: Map
+  - name: Contact
     url: /map/
     weight: 60

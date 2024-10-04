@@ -1,7 +1,5 @@
 ---
 title: Contact
-banner:
-  image: 'https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81'
 date: 2022-10-24
 
 type: landing
