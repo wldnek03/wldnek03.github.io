@@ -26,9 +26,9 @@ main:
   - parent: Inform
     name: Notice
     url: /sns/notice/
-  - parent: Inform
+  - parent: Inform 
     name: SNS
-    url: /sns/Sns/
+    url: /sns/
   - name: Certifications
     url: /license/
     weight: 50
