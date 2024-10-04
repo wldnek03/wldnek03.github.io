@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include communications and networking.
+bio: 저의 관심 분야는 통신과 네트워크입니다. 
 
 #interests:
 #- Artificial Intelligence
