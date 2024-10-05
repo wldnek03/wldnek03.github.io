@@ -47,13 +47,12 @@ design:
   columns: '1'
 
 # Resume Languages block.
-- block: resume-languages
-  content:
-    title: Languages
-    username: admin
-    languages:
-      - language: Korean
-        proficiency: Native
-      - language: English
-        proficiency: Fluent
+languages:
+  title: Languages
+  username: admin
+  items:
+    - language: Korean
+      proficiency: Native
+    - language: English
+      proficiency: Fluent
 ---
