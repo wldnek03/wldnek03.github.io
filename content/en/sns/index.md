@@ -2,8 +2,8 @@
 title: 🌟 Welcome to Jiwoo SNS 🌟
 
 banner:
-  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1581447109200-bf2769116351)'
-  image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
+  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1620293087949-b026c58aa946)'
+  image: 'https://images.unsplash.com/photo-1620293087949-b026c58aa946'
 ---
 <div style="font-size: 1.3em;">
     <span><strong>📸Instagram</strong>: <a href="https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr" target="_blank">Instagram</a></span><br>
