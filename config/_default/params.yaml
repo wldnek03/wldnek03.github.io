@@ -52,7 +52,7 @@ header:
     #highlight_active_link: false
     logo:
       text: "JIWOO"
-      filename: "icon.png"
+      filename: "logo.jpg"
 
 footer:
   copyright:
