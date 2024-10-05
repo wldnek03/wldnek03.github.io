@@ -2,7 +2,7 @@
 widget: collection
 headless: true
 
-weight: 40
+weight: 35
 content:
   items:
     - title: "A* Algorithm"
@@ -18,13 +18,5 @@ content:
       image: "featur.jpg"
       url: "/pro/jav/"
 design:
-  columns: '3'
-style: |
-  .card {
-    margin: 10px;
-  }
-  .card img {
-    height: 200px;
-    object-fit: cover;
-  }
+  columns: '1'
 ---
