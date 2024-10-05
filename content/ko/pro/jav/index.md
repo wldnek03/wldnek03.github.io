@@ -17,3 +17,10 @@ image:
 - 게임 로직
 - UI
 - 음악 트랙
+<head>
+    <style>
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>

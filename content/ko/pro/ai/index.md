@@ -21,3 +21,10 @@ image:
   - Pygame (게임 개발 및 GUI 환경)
   - Pgu (GUI 라이브러리)
   - A 알고리즘* (휴리스틱 함수 사용)
+<head>
+    <style>
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>

@@ -63,3 +63,10 @@ projects:
 </a>
 
 함께 TOEIC 고득점을 향해 달려갈 분들의 많은 참여 부탁드립니다!
+<head>
+    <style>
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
