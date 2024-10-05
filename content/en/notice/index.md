@@ -5,7 +5,7 @@ view: card
 
 banner:
   caption: ''
-  image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85'
+  image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
 
 event: Wowchemy Conference
 event_url: https://example.org

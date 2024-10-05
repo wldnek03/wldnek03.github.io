@@ -5,18 +5,7 @@ view: card
 
 banner:
   caption: ''
-  image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85'
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: ''
-address:
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
-  country: ''
+  image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
 
 summary: 함께 공부해요~
 abstract: ''
