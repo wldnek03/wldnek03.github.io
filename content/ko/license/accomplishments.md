@@ -21,7 +21,7 @@ item:
     organization_url: https://www.icqa.or.kr/cn/page/network
     title: 네트워크 관리사 2급 (필기)
     url: ''
-    image: 'https://via.placeholder.com/150'
+    image: logo.png
 
   - certificate_url: https://ieltskorea.org/korea/results
     date_end: ''
@@ -45,14 +45,4 @@ item:
 
 design:
   columns: '1'
-
-# Resume Languages block.
-languages:
-  title: Languages
-  username: admin
-  items:
-    - language: Korean
-      proficiency: Native
-    - language: English
-      proficiency: Fluent
 ---
