@@ -25,7 +25,7 @@ experience:
   - title: 전북대학교 입학
     company: IT지능정보공학과
     company_url: ''
-    company_logo: org-JB
+    company_logo: 🎓
     location: 전주시
     date_start: '2022-03-02'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: 공학체전 서포터즈
     company: 공도리
     company_url: ''
-    company_logo: org-SP
+    company_logo: 🎓
     location: 전주시
     date_start: '2022-04-04'
     date_end: '2022-05-14'
@@ -43,7 +43,7 @@ experience:
   - title: 컴퓨터인공지능 학생회 부원
     company: 운영부
     company_url: ''
-    company_logo: org-SC
+    company_logo: 🎓
     location: 전주시
     date_start: '2023-1월'
     date_end: '2023-12월'
@@ -52,7 +52,7 @@ experience:
   - title: 학부 연구생
     company: 분산네트워크 연구실
     company_url: ''
-    company_logo: org-GS
+    company_logo: 🎓
     location: 전주시
     date_start: '2024-1월'
     date_end: '2024-8월'
