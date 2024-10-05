@@ -11,8 +11,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 'Projects'
-subtitle: 'Explore our recent projects'
+title: ''
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -22,41 +22,25 @@ content:
   filter_default: 0
 
   # Filter toolbar (optional).
+  # Add or remove as many filters (filter_button instances) as you like.
+  # To show all items, set tag to "*".
+  # To filter by a specific tag, set tag to an existing tag name.
+  # To remove the toolbar, delete the entire filter_button block.      
+
   filter_button:
     - name: All
       tag: '*'
     - name: LDPC coding
-      tag: AI
+      tag: ML
     - name: Mobile Network
       tag: CV
     - name: Network Slicing
       tag: NLP
-
+      
 design:
   columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: 
-    padding: [0, 0, 0, 0]
-
-block:
-  - block: collection
-    content:
-      title: 'Projects'
-      subtitle: ''
-      text: ''
-      count: 5
-      filters:
-        author: ""
-        category: ""
-        exclude_featured: false
-        publication_type: ""
-        tag: ""
-      offset: 0
-      order: desc
-      page_type: pro
-    design:
-      view: card
-      columns: "1"
+  spacing: {padding: [0, 0, 0, 0]}
 ---
