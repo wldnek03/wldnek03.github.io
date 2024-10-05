@@ -21,7 +21,6 @@ item:
     organization_url: https://www.icqa.or.kr/cn/page/network
     title: 네트워크 관리사 2급 (필기)
     url: ''
-    image: logo.png
 
   - certificate_url: https://ieltskorea.org/korea/results
     date_end: ''
@@ -31,7 +30,6 @@ item:
     organization_url: https://ieltskorea.org/korea
     title: IELTS
     url: ''
-    image: 'https://ieltskorea.org/path/to/image.jpg'  
 
   - certificate_url: https://www.hanja.ne.kr/announce/announce01.asp?select_sihum1=happ
     date_end: ''
@@ -41,7 +39,6 @@ item:
     organization_url: https://www.hanja.ne.kr/index_original.asp
     title: 한자능력검정시험 준3급
     url: ''
-    image: 'https://www.hanja.ne.kr/path/to/image.jpg' 
 
 design:
   columns: '1'
