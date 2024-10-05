@@ -19,7 +19,8 @@ marketing:
     local_business_type: ''
     org_name: "이지우"
     description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    twitter: ''
+    image: "view.png" 
   analytics:
     google_analytics: ''
     baidu_tongji: ''
