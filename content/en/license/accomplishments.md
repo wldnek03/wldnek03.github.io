@@ -29,6 +29,7 @@ item:
     description: 'Completed a comprehensive course on data analysis and visualization techniques.'
     organization: 한국산업인력공단 (Korea Industrial Manpower Agency)
     organization_url: 'https://www.q-net.or.kr'
+    logo_url: 'https://search.pstatic.net/sunny/?src=https%3A%2F%2Fyt3.googleusercontent.com%2FoCSLgl4quom4aSNgkf6igOcNdn_8QIwRC6n9TNQVMR-mjuPN3mvR_xC-MC8SyR4xlCAB_G_R%3Ds900-c-k-c0x00ffffff-no-rj&type=sc960_832'
     title: '데이터 분석가 자격증 (Data Analyst Certification)'
     url: ''
   - certificate_url: 'https://www.kosca.or.kr'
