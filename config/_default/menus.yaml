@@ -14,7 +14,7 @@ main:
     weight: 30
     hasChildren: true
   - parent: 프로젝트
-    name: LDPC coding
+    name: A*Algorithm
     url: /project/recommendation/
     weight: 10
   - parent: 프로젝트
