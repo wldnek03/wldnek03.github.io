@@ -1,30 +1,32 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
-widget: contact
+title: Contact
+date: 2022-10-24
 
-# This file represents a page section.
-headless: true
+type: landing
 
-# Order that this section appears on the page.
-weight: 50
+sections:
+  - block: contact
+    content:
+      title: Contact
+      text: |-
+        여기로 이메일 보내주세요!
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
 
-title: Get in touch
-subtitle:
+      # Automatically link email and phone or display as text?
+      autolink: true
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
-design:
-  columns: '1'
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: "1"
 ---
