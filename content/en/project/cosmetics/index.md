@@ -1,6 +1,6 @@
 ---
 title: Network Slicing
-summary: Network slicing is a technology that allows multiple virtual networks to be created on a single physical network infrastructure. Each slice is tailored to meet the specific needs of different applications or services, providing customized resources, performance levels, and quality of service. This approach enhances efficiency, scalability, and flexibility, making it particularly beneficial for 5G networks and diverse use cases like IoT, autonomous vehicles, and enhanced mobile broadband.
+summary: Network slicing enables the creation of multiple virtual networks on a single physical infrastructure, each tailored for specific applications or services. This boosts efficiency and flexibility, making it ideal for 5G and diverse use cases like IoT and autonomous vehicles.
 tags:
   - Network
 date: 2022-01-01
