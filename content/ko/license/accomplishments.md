@@ -19,7 +19,7 @@ item:
     description: ''
     organization: 한국정보통신자격협회
     organization_url: https://www.icqa.or.kr/cn/page/network
-    organization_logo: graduation-cap
+    organization_logo: '<i class="fas fa-graduation-cap"></i>'
     title: 네트워크 관리사 2급 (필기)
     url: ''
 
@@ -29,7 +29,7 @@ item:
     description: ''
     organization: IDP
     organization_url: https://ieltskorea.org/korea
-    organization_logo: certificate
+    organization_logo: '<i class="fas fa-certificate"></i>'
     title: IELTS
     url: ''
 
