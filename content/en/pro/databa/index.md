@@ -40,3 +40,10 @@ along with uploading images to add new restaurants.
 - Front End: CSS, JavaScript, HTML
 - Back End: Express
 - Database: MySQL
+<head>
+    <style>
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>

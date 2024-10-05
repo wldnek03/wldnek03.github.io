@@ -21,3 +21,10 @@ image:
  - Pygame (for game development and GUI environment)
  - Pgu (GUI library)
  - A* Algorithm (using heuristic functions)
+<head>
+    <style>
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>

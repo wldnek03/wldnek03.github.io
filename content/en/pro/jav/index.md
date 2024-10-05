@@ -17,3 +17,10 @@ The game is visually intuitive and handles various input events, providing an im
 - Game Logic
 - UI
 - Music Tracks
+<head>
+    <style>
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
