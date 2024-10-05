@@ -29,7 +29,7 @@ main:
     weight: 40  
   - parent: Inform
     name: 공지
-    url: /sns/notice/
+    url: /notice/
     weight: 10
   - parent: Inform
     name: SNS

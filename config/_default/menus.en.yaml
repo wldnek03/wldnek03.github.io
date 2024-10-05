@@ -24,7 +24,7 @@ main:
     weight: 40  
   - parent: Inform
     name: Notice
-    url: /sns/notice/
+    url: /notice/
     weight: 10
   - parent: Inform
     name: SNS
