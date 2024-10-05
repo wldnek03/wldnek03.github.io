@@ -36,22 +36,15 @@ image:
   caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1581447109200-bf2769116351)'
   focal_point: 'Right'
 
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
-
-links:
-  - icon: graduation-cap
-    icon_pack: fas
-    text: Join Us
-    url: ../contact/
 
 slides: ""
 
 projects:
   - example
 ---
+<a class="join-button" href="../contact/">
+  <i class="fas fa-graduation-cap"></i> Join Us
+</a>
 
 **[TOEIC 스터디 모집 안내]**  
 안녕하세요! TOEIC 목표 점수를 위해 함께 공부할 열정적인 스터디원을 모집합니다.
