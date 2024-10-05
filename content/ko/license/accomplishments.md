@@ -22,32 +22,35 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.icqa.or.kr/cn/page/network
+  - certificate_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
     date_end: ''
     date_start: '2024-05-19'
     description: ''
     organization: 한국정보통신자격협회
-    organization_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
+    organization_url: https://www.icqa.or.kr/cn/page/network
     title: 네트워크 관리사 2급 (필기)
     url: ''
+    image: 'https://www.icqa.or.kr/path/to/image.jpg'
 
-  - certificate_url: https://ieltskorea.org/korea
+  - certificate_url: https://ieltskorea.org/korea/results
     date_end: ''
     date_start: '2024-08-24'
     description: 
     organization: IDP
-    organization_url: https://ieltskorea.org/korea/results
+    organization_url: https://ieltskorea.org/korea
     title: IELTS
     url: ''
+    image: 'https://ieltskorea.org/path/to/image.jpg'
 
-  - certificate_url: https://www.hanja.ne.kr/index_original.asp
+  - certificate_url: https://www.hanja.ne.kr/announce/announce01.asp?select_sihum1=happ
     date_end: ''
     date_start: '2014-07-01'
     description: ''
     organization: 대한검정회
-    organization_url: https://www.hanja.ne.kr/announce/announce01.asp?select_sihum1=happ
+    organization_url: https://www.hanja.ne.kr/index_original.asp
     title: 한자능력검정시험 준3급
     url: ''
+    image: 'https://www.hanja.ne.kr/path/to/image.jpg'
 
 design:
   columns: '1'
