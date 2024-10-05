@@ -25,9 +25,16 @@ main:
     name: Network Slicing
     url: /project/cosmetics/
     weight: 30
-  - name: SNS
+  - name: Inform
+    weight: 40  
+  - parent: Inform
+    name: 공지
+    url: /sns/notice/
+    weight: 10
+  - parent: Inform
+    name: SNS
     url: /sns/
-    weight: 40   
+    weight: 20
   - name: 자격증
     url: /license/
     weight: 50
