@@ -30,7 +30,7 @@ item:
     organization_url: https://www.icqa.or.kr/cn/page/network
     title: 네트워크 관리사 2급 (필기)
     url: ''
-    image: 'https://www.icqa.or.kr/path/to/image.jpg'  
+    image: 'https://via.placeholder.com/150'
 
   - certificate_url: https://ieltskorea.org/korea/results
     date_end: ''
