@@ -18,9 +18,10 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
+    formspree:
+      id: "wldnek03@naver.com" # 여기에 Formspree ID 입력
     netlify:
-      form_name: "Contact Form" 
       captcha: false
 
 design:
