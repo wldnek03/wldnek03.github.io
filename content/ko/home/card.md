@@ -16,7 +16,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: project
+  page_type: pro
 design:
   view: card
   columns: "3" # 카드가 한 행에 3개 표시되도록 설정
