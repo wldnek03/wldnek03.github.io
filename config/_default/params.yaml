@@ -43,16 +43,16 @@ header:
     enable: true
     blox: 'navbar'
     fixed_to_top: true
-    align: c
-    show_theme_chooser: true
-    show_logo: true
-    show_language: true
-    show_day_night: true
+    #align: c
+   # show_theme_chooser: true
+    #show_logo: true
+    #show_language: true
+    #show_day_night: true
     show_search: true
     #highlight_active_link: false
     logo:
       text: "JIWOO"
-      filename: /asset/media/logo.jpg
+      filename: "logo.jpg"
 
 footer:
   copyright:
