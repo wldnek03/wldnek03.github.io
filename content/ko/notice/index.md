@@ -58,7 +58,7 @@ projects:
 
 - 📩 신청 방법  
   아래 링크를 통해 신청서 작성 후 연락 부탁드립니다!  
-  <a class="join-button" href="../contact/">
+  <a class="join-button" href="https://forms.gle/wugAyEqMZb7XrCCS8">
   <i class="fas fa-graduation-cap"></i> Join Us
 </a>
 
