@@ -44,6 +44,7 @@ header:
     align: r
     show_logo: true
     logo_text: 'JIWOO'
+    logo_url: view.png
     logo_link: '/'  
     show_language: true
     show_day_night: true

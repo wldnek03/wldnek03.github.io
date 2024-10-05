@@ -17,7 +17,7 @@ item:
     date_start: '2024-05-19'
     description: ''
     organization: 한국정보통신자격협회
-    organization_url: https://www.icqa.or.kr/cn/page/network
+    organization_url: https://www.icqa.or.kr/cn
     title: 네트워크 관리사 2급 (필기)
     url: ''
     logo: '<i class="fas fa-graduation-cap"></i>'  
