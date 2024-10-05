@@ -20,14 +20,13 @@ sections:
           parallax: false
           position: center
           size: cover
+          height: '1800px'
           text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      css_class: 
 
   - block: markdown
     content:
-      title: 🌟 Welcome to 이지우 SNS 🌟
+      title: 🌟 Welcome to Jiwoo SNS 🌟
       text: |
         <span style="font-size: 1.3em;">**📸Instagram**: [Instagram](https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr)</span><br>
         <span style="font-size: 1.3em;">**💻GitHub**: [GitHub](https://github.com/wldnek03)</span><br>
