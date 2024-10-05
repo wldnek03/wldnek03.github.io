@@ -7,7 +7,7 @@ headless: true
 
 # Order of this section on the page.
 weight: 50
-title: '🎓자격증🏅'
+title: '🎓자격증'
 # Date format
 date_format: Jan 2006
 
