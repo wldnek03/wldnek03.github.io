@@ -43,7 +43,7 @@ header:
     enable: true
     blox: 'navbar'
     fixed_to_top: true
-    #align: c
+    align: c
     show_theme_chooser: true
     show_logo: true
     show_language: true
@@ -52,7 +52,7 @@ header:
     #highlight_active_link: false
     logo:
       text: "JIWOO"
-      filename: "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA4MjdfMTA2%2FMDAxNzI0NzYyMTk0MDEz.evvLKr1hGpTdqNqBzKoehmK-SUspfiNPBTlsf9YngS4g.7hXdzv0XBsK2xFoV2OpweoXQmh3VOJ-Gi_cZPtYaPLEg.PNG%2F20240827%25A3%25DF213554.png&type=sc960_832"
+      filename: "logo.jpg"
 
 footer:
   copyright:
