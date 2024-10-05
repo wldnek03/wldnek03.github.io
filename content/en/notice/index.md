@@ -7,16 +7,6 @@ banner:
   caption: ''
   image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: ''
-address:
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
-  country: ''
 
 summary: Let's study together~
 abstract: ''

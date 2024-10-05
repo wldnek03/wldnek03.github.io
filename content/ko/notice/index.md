@@ -4,7 +4,7 @@ cms_exclude: true
 view: card
 
 banner:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1581447109200-bf2769116351)'
   image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
 
 summary: 함께 공부해요~
