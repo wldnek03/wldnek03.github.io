@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: graduation-cap
     location: 전주시
-    date_start: '2023-01'
-    date_end: '2023-12'
+    date_start: '2023-01-01'
+    date_end: '2023-12-30'
     description: 'IT지능정보공학과와 컴퓨터 공학과가 컴퓨터인공지능학부로 합쳐진 후 첫 컴퓨터인공지능 학생회 부원으로 활동'
 
   - title: 학부 연구생
@@ -54,8 +54,8 @@ experience:
     company_url: ''
     company_logo: graduation-cap
     location: 전주시
-    date_start: '2024-01'
-    date_end: '2024-08'
+    date_start: '2024-01-01'
+    date_end: '2024-08-30'
     description: '분산네트워크 연구실에서 네트워크에 대해 연구 진행'
 
 design:
