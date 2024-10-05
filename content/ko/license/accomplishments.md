@@ -1,49 +1,33 @@
 ---
-# Accomplishments widget instance.
-widget: accomplishments
-
-# This file represents a page section.
-headless: true
-
-# Order of this section on the page.
-weight: 10
-
-# Date format
-date_format: Jan 2006
-
-# Accomplishments.
-item:
-  - certificate_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
-    date_end: ''
-    date_start: '2024-05-19'
-    description: ''
-    organization: 한국정보통신자격협회
-    organization_url: https://www.icqa.or.kr/cn/page/network
-    title: 네트워크 관리사 2급 (필기)
-    url: ''
-    logo: '<i class="fas fa-graduation-cap"></i>'  
-    
-  - certificate_url: https://ieltskorea.org/korea/results
-    date_end: ''
-    date_start: '2024-08-24'
-    description: ''
-    organization: IDP
-    organization_url: https://ieltskorea.org/korea
-    title: IELTS
-    url: ''
-    logo: '<i class="fas fa-certificate"></i>'  
-
-  - certificate_url: https://www.hanja.ne.kr/announce/announce01.asp?select_sihum1=happ
-    date_end: ''
-    date_start: '2014-07-01'
-    description: ''
-    organization: 대한검정회
-    organization_url: https://www.hanja.ne.kr/index_original.asp
-    title: 한자능력검정시험 준3급
-    url: ''
-    logo: '<i class="fas fa-clipboard-list"></i>'  
-
+title: '자격증'
+date: 2023-10-24
+type: landing
 
 design:
-  columns: '1'
+  # 기본 섹션 간격
+  spacing: "4rem"
+
+sections:
+  - block: banner
+    content:
+      filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+
+  - block: experience
+    content:
+      username: admin
+    design:
+      # Hugo 날짜 형식
+      date_format: 'January 2006'
+      # 교육 섹션 또는 경험 섹션 우선
+      is_education_first: false
+
+  - block: awards
+    content:
+      title: Awards
+      username: admin
+
+  - block: languages
+    content:
+      title: Languages
+      username: admin
 ---
