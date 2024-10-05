@@ -7,10 +7,10 @@ coordinates:
   longitude: '127.1295'
 
 ---
-이메일: [jiwoo030415@gmail.com](mailto:jiwoo030415@gmail.com)  
-전화번호: [010-8690-4730](tel:010-8690-4730)  
-주소: 전북대학교, 전주시, 전라북도, 54896  
-자동 링크: true  
+
+<span style="font-size: 20px;">📨 [jiwoo030415@gmail.com](mailto:jiwoo030415@gmail.com)</span><br>
+<span style="font-size: 20px;">📞 [010-8690-4730](tel:010-8690-4730)</span><br>
+<span style="font-size: 20px;">📍 전북대학교, 전주시, 전라북도, 54896</span><br>
 
 <iframe 
     width="100%" 
