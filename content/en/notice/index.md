@@ -57,7 +57,7 @@ Hello! We are looking for passionate members to study together for achieving our
 
 - 📩 How to Apply  
   Please fill out the application form via the link below and contact us!  
-  <a class="join-button" href="../contact/">
+  <a class="join-button" href="https://forms.gle/w7dSpWFYSWV8VBnQ6">
   <i class="fas fa-graduation-cap"></i> Join Us
 </a>
 
