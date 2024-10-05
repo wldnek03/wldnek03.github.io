@@ -2,7 +2,7 @@
 widget: collection
 headless: true
 
-weight: 40
+weight: 50
 content:
   title: Project
   subtitle: ''
