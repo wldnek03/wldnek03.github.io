@@ -1,5 +1,5 @@
 ---
-title: 자바스크립트로 리듬게임 만들기
+title: JavaScript Rhythm Game Development
 date: 2023-04-01
 image:
   focal_point: 'top'
@@ -7,13 +7,13 @@ image:
 
 [🐙GitHub Repository](https://github.com/wldnek03/java.jiwoo)
 
-이 프로젝트에서는 자바스크립트를 사용하여 리듬게임을 개발했습니다. 게임의 기초부터 시작해 기능을 추가하고, 사용자 경험을 고려한 디자인을 적용했습니다. 다양한 음악 트랙을 포함하여 사용자가 게임을 통해 리듬을 타는 재미를 느낄 수 있도록 구현했습니다.
-사용자는 음악에 맞춰 버튼을 누르고, 타이밍에 따라 점수를 획득하는 방식으로 게임을 진행합니다. 
-주요 구성 요소로는 게임 로직, 사용자 인터페이스(UI), 다양한 음악 트랙이 포함되어 있습니다. 
-게임은 시각적으로 직관적이며, 다양한 입력 이벤트를 처리하여 사용자가 몰입할 수 있는 경험을 제공합니다.
+In this project, I developed a rhythm game using JavaScript. Starting from the basics of the game, I added features and applied designs that consider user experience. The game includes various music tracks, allowing users to enjoy the fun of keeping rhythm through gameplay. 
+Users progress through the game by pressing buttons in time with the music, earning points based on their timing. 
+The main components include game logic, user interface (UI), and various music tracks. 
+The game is visually intuitive and handles various input events, providing an immersive experience for users.
 
-**사용 기술**
-- java
-- 게임 로직
+**Technologies Used**
+- JavaScript
+- Game Logic
 - UI
-- 음악 트랙
+- Music Tracks

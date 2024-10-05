@@ -29,7 +29,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: A*Algorithm
+    - name: LDPC coding
       tag: AI
     - name: Mobile Network
       tag: CV
