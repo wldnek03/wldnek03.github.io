@@ -37,13 +37,19 @@ markup:
 
 
 # Site header
+
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    blox: 'navbar'
     fixed_to_top: true
-    show_search: true
+    align: c
     show_theme_chooser: true
+    show_logo: true
+    show_language: true
+    show_day_night: true
+    show_search: true
+    #highlight_active_link: false
     logo:
       text: "JIWOO"
       filename: "logo.jpg"
