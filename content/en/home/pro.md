@@ -24,7 +24,7 @@ sections:
         tag: ""
       offset: 0
       order: desc
-      page_type: project
+      page_type: pro
     design:
       view: card
       columns: "1"
