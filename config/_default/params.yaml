@@ -52,7 +52,7 @@ header:
     #highlight_active_link: false
     logo:
       text: "JIWOO"
-      filename: "graduation-cap.svg"
+      filename: "icon.png"
 
 footer:
   copyright:
