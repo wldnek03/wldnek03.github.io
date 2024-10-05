@@ -1,29 +1,42 @@
 ---
-title: 데이터베이스를 활용한 전주 맛집 추천 웹사이트
+title: Database-Driven Restaurant Recommendation Website for Jeonju
 date: 2024-05-01
 image:
   focal_point: "top"
 ---
 
-전주에 숨은 맛집들을 소개하는 웹사이트를 개발했습니다. 
-이 프로젝트는 약 80개의 지역 맛집 데이터를 모아 사용자들이 다양한 식사 옵션을 발견하고 탐색할 수 있도록 하는 것을 목표로 했습니다.
+I developed a website introducing hidden gems in Jeonju.
+The project aimed to collect data on approximately 80 local restaurants, allowing users to discover and explore various dining options.
 
-**데이터베이스 설계 및 구현**
-맛집 추천 게시판, 맛집 정보, 사용자 리뷰와 같은 기능을 지원하기 위해, recommend_board, restaurants, reviews의 세 가지 주요 테이블로 구성된 데이터베이스를 설계하고 구현했습니다.
+**Database Design and Implementation**
+To support features like recommendation boards, restaurant information, and user reviews, 
+I designed and implemented a database composed of three main tables: recommend_board, restaurants, and reviews.
 
-**사용자 인터페이스 및 경험**
-홈 화면 상단에는 식당 이름을 검색하는 창과 동별로 맛집을 모아볼 수 있는 섹션, 음식 종류별로 모아볼 수 있는 섹션이 구현되어 있습니다. 그 아래에는 맛집 추가 및 추천 게시판 섹션이 있습니다.
+**User Interface and Experience**
+At the top of the home screen, there is a search bar for restaurant names, 
+a section to explore restaurants by neighborhood, 
+and another section to browse by food type. Below that, 
+there are sections for adding restaurants and a recommendation board.
 
-예를 들어, 중화산동을 선택하면 각 식당의 이름, 음식 종류, 메뉴가 표시되는 목록을 볼 수 있습니다. 마찬가지로 음식 종류별 맛집에서 일식을 선택하면, 각 식당의 이름과 위치, 메뉴를 확인할 수 있는 화면이 나옵니다.
+For example, if a user selects Jungwasan-dong, they will see a list displaying 
+each restaurant's name, food type, and menu. Similarly, 
+if they choose Japanese cuisine in the food type section, 
+they can view a screen that shows the name, location, and menu for each restaurant.
 
-특정 식당을 클릭하면 깐쇼새우와 같은 상세 화면이 나타납니다. 이 화면에서는 식당의 위치, 카테고리, 메뉴, 간단한 소개와 대표 메뉴의 사진이 제공됩니다. 또한, 아래쪽에서 리뷰를 읽고 작성할 수 있는 기능이 마련되어 있습니다. 리뷰 작성 버튼을 클릭하면 평점과 코멘트를 작성할 수 있는 화면으로 이어집니다.
+Clicking on a specific restaurant brings up a detailed screen, such as for 
+"Kung Pao Shrimp." This screen provides the restaurant's location, category, 
+menu, a brief introduction, and photos of signature dishes. 
+Additionally, there is a feature for reading and writing reviews below. 
+Clicking the review button leads to a screen where users can rate and comment.
 
-**추가 기능**
-추천 게시판 섹션을 구현하여 사용자들이 자신이 좋아하는 맛집을 다른 사용자들에게 추천하는 글을 작성할 수 있도록 하였습니다. 또한, 맛집 추가 기능도 구현하여 사용자들이 맛집 이름, 위치, 음식 종류, 특징, 소개를 입력하고 이미지를 첨부하여 새로운 맛집을 추가할 수 있습니다.
+**Additional Features**
+I implemented a recommendation board section that allows users to write posts 
+recommending their favorite restaurants to others. 
+Furthermore, I added a restaurant addition feature where users can enter 
+restaurant names, locations, food types, characteristics, and descriptions, 
+along with uploading images to add new restaurants.
 
-**소프트웨어 및 개발 환경**
-- 프론트 엔드 : css, javascript, html
-
-- 백엔드 : Express
-
-- 데이터베이스 : Mysql
+**Software and Development Environment**
+- Front End: CSS, JavaScript, HTML
+- Back End: Express
+- Database: MySQL
