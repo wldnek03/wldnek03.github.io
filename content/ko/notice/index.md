@@ -1,14 +1,10 @@
 ---
 title: 토익 스터디 모집
-cms_exclude: true
-view: card
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1581447109200-bf2769116351)'
   image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
 
-summary: 함께 공부해요~
-abstract: ''
 
 date: ''
 date_end: ''

@@ -1,15 +1,10 @@
 ---
 title: TOEIC Study Group Recruitment
-cms_exclude: true
-view: card
 
 banner:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1581447109200-bf2769116351)'
   image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
 
-
-summary: Let's study together~
-abstract: ''
 
 date: ''
 date_end: ''
