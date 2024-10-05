@@ -1,53 +1,47 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://docs.hugoblox.com/page-builder/
+# Accomplishments widget instance.
 widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 40
-
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
-
+# Order of this section on the page.
+weight: 10
+title: '🎓 Certifications 🏅'
 # Date format
-#   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
 
 # Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 'https://www.q-net.or.kr'
+  - certificate_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
     date_end: ''
-    date_start: '2023-01-15'
-    description: 'Completed a comprehensive course on data analysis and visualization techniques.'
-    organization: 한국산업인력공단 (Korea Industrial Manpower Agency)
-    organization_url: 'https://www.q-net.or.kr'
-    logo_url: 'https://search.pstatic.net/sunny/?src=https%3A%2F%2Fyt3.googleusercontent.com%2FoCSLgl4quom4aSNgkf6igOcNdn_8QIwRC6n9TNQVMR-mjuPN3mvR_xC-MC8SyR4xlCAB_G_R%3Ds900-c-k-c0x00ffffff-no-rj&type=sc960_832'
-    title: '데이터 분석가 자격증 (Data Analyst Certification)'
+    date_start: '2024-05-19'
+    description: 'Completed the written examination for the Network Manager Level 2 certification, organized by the Korea Information & Communication Qualifications Association (ICQA). This certification evaluates knowledge in TCP/IP, OSI model, network security, and practical network management skills.'
+    organization: Korea Information & Communication Qualifications Association
+    organization_url: https://www.icqa.or.kr/cn/page/network
+    title: 📝Network Manager Level 2 (Written)
     url: ''
-  - certificate_url: 'https://www.kosca.or.kr'
+    logo: '<i class="fas fa-graduation-cap"></i>'  
+
+  - certificate_url: https://ieltskorea.org/korea/results
     date_end: ''
-    date_start: '2022-06-10'
-    description: 'Gained expertise in cloud computing fundamentals and solutions.'
-    organization: 한국클라우드산업협회 (Korea Cloud Industry Association)
-    organization_url: 'https://www.kosca.or.kr'
-    title: '클라우드 컴퓨팅 자격증 (Cloud Computing Certification)'
+    date_start: '2024-08-24'
+    description: 'Completed the International English Language Testing System (IELTS) exam, administered by IDP. This test assesses proficiency in listening, reading, writing, and speaking in both academic and real-life contexts.'
+    organization: IDP
+    organization_url: https://ieltskorea.org/korea
+    title: 🌍IELTS
     url: ''
-  - certificate_url: 'https://www.kiwi.or.kr'
+    logo: '<i class="fas fa-certificate"></i>'  
+
+  - certificate_url: https://www.hanja.ne.kr/announce/announce01.asp?select_sihum1=happ
     date_end: ''
-    date_start: '2021-12-05'
-    description: 'Acquired skills in mobile app development using various programming languages.'
-    organization: 한국정보통신진흥협회 (Korea Information and Communication Promotion Association)
-    organization_url: 'https://www.kiwi.or.kr'
-    title: '모바일 앱 개발자 자격증 (Mobile App Developer Certification)'
+    date_start: '2014-07-01'
+    description: 'Passed the Level Pre-3 of the Hanja Proficiency Test, organized by the Korea Hanja Proficiency Examination Institute. This certification demonstrates the ability to understand and use 900 Chinese characters in the Korean language.'
+    organization: Korea Hanja Proficiency Examination Institute
+    organization_url: https://www.hanja.ne.kr/index_original.asp
+    title: 🀄Hanja Proficiency Test Level Pre-3
     url: ''
+    logo: '<i class="fas fa-clipboard-list"></i>'  
 
 design:
   columns: '1'
