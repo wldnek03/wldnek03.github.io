@@ -41,15 +41,18 @@ markup:
 header:
   navbar:
     enable: true
-    align: r
-    show_logo: true
-    logo_text: 'JIWOO'
-    logo_url: 'https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA4MjdfMTA2%2FMDAxNzI0NzYyMTk0MDEz.evvLKr1hGpTdqNqBzKoehmK-SUspfiNPBTlsf9YngS4g.7hXdzv0XBsK2xFoV2OpweoXQmh3VOJ-Gi_cZPtYaPLEg.PNG%2F20240827%25A3%25DF213554.png&type=sc960_832'
+    blox: 'navbar'
+    fixed_to_top: true
+    show_theme_chooser: true
+    show_search: true
+    logo:
+      text: "JIWOO"
+      filename: "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA4MjdfMTA2%2FMDAxNzI0NzYyMTk0MDEz.evvLKr1hGpTdqNqBzKoehmK-SUspfiNPBTlsf9YngS4g.7hXdzv0XBsK2xFoV2OpweoXQmh3VOJ-Gi_cZPtYaPLEg.PNG%2F20240827%25A3%25DF213554.png&type=sc960_832"
     logo_link: '/'  
     show_language: true
     show_day_night: true
-    show_search: true
     highlight_active_link: false
+
 
 footer:
   copyright:
