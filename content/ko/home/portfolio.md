@@ -29,8 +29,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: LDPC coding
-      tag: ML
+    - name: A*Algorithm
+      tag: AI
     - name: Mobile Network
       tag: CV
     - name: Network Slicing
