@@ -6,11 +6,11 @@ type: widget_page
 headless: true
 
 sections:
-    - block: collection
+  - block: collection
     content:
-      title: 프로젝트
-      subtitle:
-      text:
+      title: '프로젝트'
+      subtitle: ''
+      text: ''
       count: 5
       filters:
         author: ""
@@ -20,7 +20,7 @@ sections:
         tag: ""
       offset: 0
       order: desc
-      page_type: project
+      page_type: pro
     design:
       view: card
       columns: "1"
