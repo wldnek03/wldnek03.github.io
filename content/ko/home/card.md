@@ -2,14 +2,13 @@
 widget: collection
 headless: true
 
-# Order that this section appears on the page.
 weight: 40
 content:
   items:
     - title: "A* Algorithm"
       description: "최단 경로를 찾는 A* 알고리즘을 구현한 프로젝트입니다."
       image: "featured.jpg"
-      url: "/pro/ai/" # 해당 프로젝트 페이지의 URL
+      url: "/pro/ai/"
     - title: "데이터베이스를 활용한 전주 맛집 추천 웹사이트"
       description: "전주에 숨은 맛집들을 소개하는 웹사이트 개발 프로젝트입니다."
       image: "feature.jpg"
@@ -20,4 +19,12 @@ content:
       url: "/pro/jav/"
 design:
   columns: '3'
+style: |
+  .card {
+    margin: 10px;
+  }
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
 ---
