@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: graduation-cap
     location: Jeonju
-    date_start: 'January 2023'
-    date_end: 'December 2023'
+    date_start: '2023-01'
+    date_end: '2023-12'
     description: 'Served as a member of the first Computer and AI Student Council after the merger of the Department of Intelligent Information Technology and the Department of Computer Engineering'
 
   - title: Undergraduate Research Student
@@ -54,8 +54,8 @@ experience:
     company_url: ''
     company_logo: graduation-cap
     location: Jeonju
-    date_start: 'January 2024'
-    date_end: 'August 2024'
+    date_start: '2024-01'
+    date_end: '2024-08'
     description: 'Conducting research on networks in the Distributed Network Laboratory'
 
 design:
