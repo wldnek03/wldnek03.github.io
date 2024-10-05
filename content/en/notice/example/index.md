@@ -5,12 +5,6 @@ event: Wowchemy Conference
 event_url: https://example.org
 
 location: 위치: 상의를 통해 결정
-address:
-  street: ''
-  city: ''
-  region: ''
-  postcode: ''
-  country: ''
 
 summary: 함께 공부해요~
 abstract: |
@@ -48,24 +42,19 @@ abstract: |
 
   함께 TOEIC 고득점을 향해 달려갈 분들의 많은 참여 부탁드립니다!
 
-
 all_day: false
-
-
 
 authors: []
 tags: []
 
-# Is this a featured talk? (true/false)
-featured: false
-
 image:
-  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1450101499163-c8848c66ca85)'
-  focal_point: Right
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: 'Right'
+
+featured: false
 
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
 ---
