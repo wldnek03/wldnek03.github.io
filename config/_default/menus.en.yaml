@@ -10,11 +10,11 @@ main:
     hasChildren: true
   - parent: Projects
     name: A*Algorithm
-    url: /project/recommendation/
+    url: /pro/recommendation/
     weight: 10
   - parent: Projects
-    name: Mobile Network
-    url: /project/cartoon/
+    name: DataBase
+    url: /pro/databa/
     weight: 20
   - parent: Projects
     name: Network Slicing
