@@ -45,7 +45,7 @@ header:
     show_logo: true
     logo_text: 'JIWOO'
     logo_link: '/'  
-    logo_image: '/assets/images/icon.png' 
+    logo_image: "icon.png"
     show_language: true
     show_day_night: true
     show_search: true
