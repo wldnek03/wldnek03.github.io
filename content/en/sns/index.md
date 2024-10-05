@@ -1,35 +1,14 @@
---- 
-title: SNS
-date: 2022-10-24
-
-type: landing
-
-sections:
-  - block: markdown
-    content:
-      title: 
-      subtitle: ''
-      text: ''
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: sns.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          height: '1800px'
-          text_color_light: true
-      css_class: 
-
-  - block: markdown
-    content:
-      title: 🌟 Welcome to Jiwoo SNS 🌟
-      text: |
-        <span style="font-size: 1.3em;">**📸Instagram**: [Instagram](https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr)</span><br>
-        <span style="font-size: 1.3em;">**💻GitHub**: [GitHub](https://github.com/wldnek03)</span><br>
-        <span style="font-size: 1.3em;">**👩🏻‍💻Youtube**: [Youtube](https://youtube.com/channel/UC6IHApRXqr04NoG6cZYWkjg?si=8AbtlfreJzhk4oP6)
-        <span style="font-size: 1.3em;">**🌐Blog**: [Blog](https://blog.naver.com/wldnek03)
 ---
+title: 🌟 Welcome to Jiwoo SNS 🌟
+
+banner:
+  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1581447109200-bf2769116351)'
+  image: 'https://images.unsplash.com/photo-1581447109200-bf2769116351'
+---
+<div style="font-size: 1.3em;">
+    <span><strong>📸Instagram</strong>: <a href="https://www.instagram.com/easy._.cow?igsh=MTZtN3lodnUwMjk5cw%3D%3D&utm_source=qr" target="_blank">Instagram</a></span><br>
+    <span><strong>💻GitHub</strong>: <a href="https://github.com/wldnek03" target="_blank">GitHub</a></span><br>
+    <span><strong>👩🏻‍💻Youtube</strong>: <a href="https://youtube.com/channel/UC6IHApRXqr04NoG6cZYWkjg?si=8AbtlfreJzhk4oP6" target="_blank">Youtube</a></span><br>
+    <span><strong>🌐Blog</strong>: <a href="https://blog.naver.com/wldnek03" target="_blank">Blog</a></span><br>
+    <span><strong>
+</div>
