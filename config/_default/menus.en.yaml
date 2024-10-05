@@ -5,21 +5,10 @@ main:
   - name: Resume
     url: /about/
     weight: 20
-  - name: Projects
+  - name: Project
+    url: /pro/
     weight: 30
     hasChildren: true
-  - parent: Projects
-    name: A*Algorithm
-    url: /pro/recommendation/
-    weight: 10
-  - parent: Projects
-    name: DataBase
-    url: /pro/databa/
-    weight: 20
-  - parent: Projects
-    name: Network Slicing
-    url: /project/cosmetics/
-    weight: 30
   - name: Inform
     weight: 40  
   - parent: Inform

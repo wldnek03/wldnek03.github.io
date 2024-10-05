@@ -11,20 +11,9 @@ main:
     url: /about/
     weight: 20
   - name: 프로젝트
+    url: /pro/
     weight: 30
     hasChildren: true
-  - parent: 프로젝트
-    name: A*Algorithm
-    url: /pro/recommendation/
-    weight: 10
-  - parent: 프로젝트
-    name: DataBase
-    url: /pro/databa/
-    weight: 20
-  - parent: 프로젝트
-    name: Network Slicing
-    url: /project/cosmetics/
-    weight: 30
   - name: Inform
     weight: 40  
   - parent: Inform
