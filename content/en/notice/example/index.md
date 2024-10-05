@@ -4,7 +4,7 @@ title: 토익 스터디 모집
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: 위치: 상의를 통해 결정
+location: '위치: 상의를 통해 결정'
 
 summary: 함께 공부해요~
 abstract: |
