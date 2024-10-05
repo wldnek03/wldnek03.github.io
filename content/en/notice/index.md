@@ -33,13 +33,19 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1581447109200-bf2769116351)'
   focal_point: 'Right'
 
 url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
 url_video: 'https://youtube.com'
+
+links:
+  - icon: graduation-cap
+    icon_pack: fas
+    text: Join Us
+    url: ../contact/
 
 slides: ""
 
