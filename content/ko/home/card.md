@@ -2,21 +2,22 @@
 widget: collection
 headless: true
 
-weight: 35
+weight: 40
 content:
-  items:
-    - title: "A* Algorithm"
-      description: "최단 경로를 찾는 A* 알고리즘을 구현한 프로젝트입니다."
-      image: "featured.jpg"
-      url: "/pro/ai/"
-    - title: "데이터베이스를 활용한 전주 맛집 추천 웹사이트"
-      description: "전주에 숨은 맛집들을 소개하는 웹사이트 개발 프로젝트입니다."
-      image: "feature.jpg"
-      url: "/pro/databa/"
-    - title: "자바스크립트로 리듬게임 만들기"
-      description: "자바스크립트를 사용하여 리듬게임 개발 프로젝트입니다."
-      image: "featur.jpg"
-      url: "/pro/jav/"
+  title: 프로젝트
+  subtitle: 나의 프로젝트 모음
+  text: 여기에서 다양한 프로젝트를 확인하세요.
+  count: 5
+  filters:
+    author: ""
+    category: ""
+    exclude_featured: false
+    publication_type: ""
+    tag: ""
+  offset: 0
+  order: desc
+  page_type: project
 design:
-  columns: '1'
+  view: card
+  columns: "3" # 카드가 한 행에 3개 표시되도록 설정
 ---
