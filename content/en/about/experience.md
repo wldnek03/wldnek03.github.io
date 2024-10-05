@@ -25,7 +25,7 @@ experience:
   - title: Admission to Jeonbuk National University
     company: Department of Intelligent Information Technology
     company_url: ''
-    company_logo: 🎓
+    company_logo: graduation-cap
     location: Jeonju
     date_start: '2022-03-02'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Engineering Festival Supporter
     company: Gongdori
     company_url: ''
-    company_logo: 🎓
+    company_logo: graduation-cap
     location: Jeonju
     date_start: '2022-04-04'
     date_end: '2022-05-14'
@@ -43,7 +43,7 @@ experience:
   - title: Member of Computer and AI Student Council
     company: Operations Department
     company_url: ''
-    company_logo: 🎓
+    company_logo: graduation-cap
     location: Jeonju
     date_start: 'January 2023'
     date_end: 'December 2023'
@@ -52,7 +52,7 @@ experience:
   - title: Undergraduate Research Student
     company: Distributed Network Laboratory
     company_url: ''
-    company_logo: 🎓
+    company_logo: graduation-cap
     location: Jeonju
     date_start: 'January 2024'
     date_end: 'August 2024'
