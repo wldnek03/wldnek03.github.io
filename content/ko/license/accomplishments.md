@@ -12,8 +12,6 @@ weight: 10
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: ''
 subtitle:
-banner:
-  image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85'
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
@@ -24,29 +22,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.icqa.or.kr/cn/page/network
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2024-05-19'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: 한국정보통신자격협회
+    organization_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
+    title: 네트워크 관리사 2급 (필기)
     url: ''
-  - certificate_url: https://www.edx.org
+
+  - certificate_url: https://ieltskorea.org/korea
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2024-08-24'
+    description: 
+    organization: IDP
+    organization_url: https://ieltskorea.org/korea/results
+    title: IELTS
+    url: ''
+
+  - certificate_url: https://www.hanja.ne.kr/index_original.asp
+    date_end: ''
+    date_start: '2014-07-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: 대한검정회
+    organization_url: https://www.hanja.ne.kr/announce/announce01.asp?select_sihum1=happ
+    title: 한자능력검정시험 준3급
     url: ''
 
 design:
