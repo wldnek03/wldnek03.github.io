@@ -2,8 +2,8 @@
 widget: portfolio
 headless: true
 weight: 20
-title: '💡Interest Topic'
-subtitle: ''
+title: ''
+subtitle: '💡Interest Topic'
 
 content:
   page_type: project

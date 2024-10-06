@@ -2,8 +2,8 @@
 widget: portfolio
 headless: true
 weight: 20
-title: '💡관심 주제'
-subtitle: ''
+title: ''
+subtitle: '💡관심 주제'
 
 content:
   page_type: project
