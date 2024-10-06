@@ -21,7 +21,6 @@ item:
     organization_url: https://www.icqa.or.kr/cn/page/network
     title: 📝Network Manager Level 2 (Written)
     url: ''
-    logo: '<i class="fas fa-graduation-cap"></i>'  
 
   - certificate_url: https://ieltskorea.org/korea/results
     date_end: ''
@@ -31,7 +30,6 @@ item:
     organization_url: https://ieltskorea.org/korea
     title: 🌍IELTS
     url: ''
-    logo: '<i class="fas fa-certificate"></i>'  
 
   - certificate_url: https://www.hanja.ne.kr/announce/announce01.asp?select_sihum1=happ
     date_end: ''
@@ -41,7 +39,6 @@ item:
     organization_url: https://www.hanja.ne.kr/index_original.asp
     title: 🀄Hanja Proficiency Test Level Pre-3
     url: ''
-    logo: '<i class="fas fa-clipboard-list"></i>'  
 
 design:
   columns: '1'
