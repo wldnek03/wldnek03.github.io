@@ -4,7 +4,7 @@ headless: true
 
 weight: 40
 content:
-  title: Project
+  title: "📚Project"
   subtitle: ''
   text: 여기에서 다양한 프로젝트를 확인하세요.
   count: 5
@@ -19,5 +19,5 @@ content:
   page_type: pro
 design:
   view: card
-  columns: "3" # 카드가 한 행에 3개 표시되도록 설정
+  columns: "3"
 ---

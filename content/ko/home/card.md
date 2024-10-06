@@ -4,7 +4,7 @@ headless: true
 
 weight: 40
 content:
-  title: 프로젝트
+  title: "📚프로젝트"
   subtitle: ''
   text: 여기에서 다양한 프로젝트를 확인하세요.
   count: 5
