@@ -31,11 +31,15 @@ content:
     - name: All
       tag: '*'
     - name: LDPC coding
-      tag: ML
+      tag: LDPC
     - name: Mobile Network
-      tag: CV
+      tag: Mobile
     - name: Network Slicing
-      tag: NLP
+      tag: Network
+    - name: Web
+      tag: Web
+    - name: IoT
+      tag: IoT
       
 design:
   columns: '1'
