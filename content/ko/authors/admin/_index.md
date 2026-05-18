@@ -6,7 +6,7 @@ title: 이지우
 superuser: true
 
 # Role/position
-role: 전북대학교 IT지능정보공학과 학생 <br> tel.010-8690-4730
+role: 전북대학교 IT지능정보공학과 4학년 <br> tel.010-8690-4730
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 저의 관심 분야는 통신과 네트워크입니다. 
+bio: ''
 
 #interests:
 #- Artificial Intelligence
@@ -74,6 +74,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-저는 전북대학교 IT지능정보공학과 3학년에 재학 중인 이지우입니다. 지난 학기 분산네트워크 연구실에서 연구 경험을 쌓았습니다. 연구를 통해 네트워크 프로토콜에 대한 내용을 배웠고, 다양한 도구와 방법론을 활용해 실제 문제를 해결해 보았습니다. 통신과 네트워크 분야에 많은 관심을 가지고 있으며, 최신 기술 트렌드를 공부하며 네트워크 엔지니어로서의 역량을 키우고 있습니다. 앞으로 통신 시스템의 안정성과 효율성을 높이는 데 기여하고, 대기업에서 네트워크 관리자 및 엔지니어로 성장하는 것이 목표입니다.
+저는 전북대학교 IT지능정보공학과 4학년에 재학 중인 이지우입니다. 분산네트워크 연구실에서 연구를 수행하며 네트워크와 시스템 구조를 학습하였고, 캡스톤 프로젝트를 통해 서버를 직접 구성·운영하는 경험을 쌓았습니다. 또한 AI 개발 도구를 활용하여 개발 결과를 검증하고 개선하는 경험을 통해 시스템 전반에 대한 이해를 넓혔습니다.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} 저의 이력서 PDF입니다.
+현재는 네트워크, 서버, 시스템 운영을 포함한 IT 인프라 전반과 AI 활용 기술에 관심을 가지고 있으며, 다양한 기술이 결합된 환경에서 안정적인 서비스 운영을 지원하는 엔지니어로 성장하는 것을 목표로 하고 있습니다.

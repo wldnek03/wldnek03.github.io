@@ -6,7 +6,7 @@ title: Lee Ji Woo
 superuser: true
 
 # Role/position
-role: Students majoring in IT Intelligence and Information Engineering at Chonbuk National University <br> tel.010-8690-4730
+role: Senior (4th year) majoring in IT Intelligence and Information Engineering, Jeonbuk National University <br> tel.010-8690-4730
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include communications and networking.
+bio: ''
 
 #interests:
 #- Artificial Intelligence
@@ -74,6 +74,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-I'm Jiwoo Lee, a third-year student of the IT Intelligence Information Engineering Department at Chonbuk National University. I gained research experience in the distributed network lab last semester. Through the research, I learned the contents of network protocol and tried to solve real problems by using various tools and methodologies. I have a lot of interest in communication and network fields, and I am studying the latest technology trends and developing my capabilities as a network engineer. In the future, my goal is to contribute to increasing the stability and efficiency of communication systems and grow from a large company to a network manager and engineer.
+I'm Jiwoo Lee, a senior (4th year) in the Department of IT Intelligence and Information Engineering at Jeonbuk National University. I conducted research at the Distributed Network Laboratory, where I studied networks and system architecture, and through capstone projects I gained hands-on experience configuring and operating servers myself. By leveraging AI development tools to verify and improve my work, I have also broadened my understanding of systems as a whole.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} This is my resume PDF.
+I am currently interested in IT infrastructure as a whole — including networking, servers, and system operations — as well as in applied AI. My goal is to grow into an engineer who supports stable service operations in environments where multiple technologies come together.
