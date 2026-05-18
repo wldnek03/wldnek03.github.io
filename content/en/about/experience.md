@@ -76,6 +76,15 @@ experience:
     date_end: '2024-12-31'
     description: 'Led backend development for a web-based shopping mall project reflecting country-specific grocery demand. Implemented product browsing and data processing features with a focus on user convenience, and designed a structure to efficiently manage product information for different countries. Also applied image-classification-based functionality, gaining experience integrating machine learning into a service, and continuously discussed improvements to service flow and user experience with teammates.'
 
+  - title: Moin Global Friends 18th (Supporter)
+    company: Moin Inc.
+    company_url: 'https://www.themoin.com'
+    company_logo: graduation-cap
+    location: Online
+    date_start: '2025-03-31'
+    date_end: '2025-06-30'
+    description: 'Worked as a supporter for the overseas remittance platform "Moin", producing exchange-student-in-Germany content that earned readers'' trust and generated real revenue. Researched and broke down complex processes — Sperrkonto setup, visa applications, public insurance and vaccination procedures — into clear, step-by-step blog posts. Rather than simply listing information, I highlighted critical cautions and must-do checklists, and used screenshots and other visuals to develop strong readable-document skills. The posts were actively used by fellow exchange students and received feedback that they were genuinely helpful. Notably, the credibility of the content drove many readers to sign up via the Sperrkonto referral program, generating revenue and demonstrating the impact of the content.'
+
   - title: Exchange Student
     company: Jeonbuk National University / University of Duisburg-Essen
     company_url: ''

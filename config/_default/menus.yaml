@@ -14,16 +14,9 @@ main:
     url: /pro/
     weight: 30
     hasChildren: true
-  - name: Inform
-    weight: 40  
-  - parent: Inform
-    name: 공지
-    url: /notice/
-    weight: 10
-  - parent: Inform
-    name: SNS
+  - name: SNS
     url: /sns/
-    weight: 20
+    weight: 40
   - name: 자격증
     url: /license/
     weight: 50

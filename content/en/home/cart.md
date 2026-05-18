@@ -31,7 +31,7 @@ item:
     title: 💻Computer Proficiency Level 2
     url: ''
 
-  - certificate_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
+  - certificate_url: ''
     date_end: ''
     date_start: '2025-12-01'
     description: 'Obtained the Network Manager Level 2 certification, administered by the Korea Information & Communication Qualifications Association (ICQA).'
@@ -49,7 +49,7 @@ item:
     title: 🗣️TOEIC Speaking
     url: ''
 
-  - certificate_url: https://ieltskorea.org/korea/results
+  - certificate_url: ''
     date_end: ''
     date_start: '2024-09-01'
     description: 'Completed the International English Language Testing System (IELTS) exam, administered by IDP Education.'

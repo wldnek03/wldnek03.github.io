@@ -31,7 +31,7 @@ item:
     title: 💻컴퓨터활용능력 2급
     url: ''
 
-  - certificate_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
+  - certificate_url: ''
     date_end: ''
     date_start: '2025-12-01'
     description: '한국정보통신자격협회에서 주관하는 네트워크 관리사 2급 자격증을 취득하였습니다. TCP/IP, OSI 모델, 네트워크 보안, 실무적인 네트워크 관리 능력에 대한 지식을 평가합니다.'
@@ -49,7 +49,7 @@ item:
     title: 🗣️TOEIC Speaking
     url: ''
 
-  - certificate_url: https://ieltskorea.org/korea/results
+  - certificate_url: ''
     date_end: ''
     date_start: '2024-09-01'
     description: 'IDP Education에서 주관하는 국제 영어 능력 시험인 IELTS를 응시하여 영어 듣기, 읽기, 쓰기, 말하기 영역에서의 능력을 인증받았습니다.'
