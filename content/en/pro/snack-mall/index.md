@@ -7,7 +7,9 @@ image:
 
 [🖥️ Server Repository](https://github.com/wldnek03/snack_server) ・ [🌐 Client Repository](https://github.com/wldnek03/snack_client)
 
-Led **backend development** for a web-based shopping mall project reflecting country-specific grocery demand. Implemented product browsing and data processing features focused on user convenience, and designed a database structure to efficiently manage product information per country. Also applied image-classification-based functionality, gaining experience integrating machine learning into a service, and continuously discussed service flow and UX improvements with teammates.
+![Dalcom Snack Nomad main screen](featured.png)
+
+Led **backend development** for a web-based shopping mall **"Dalcom Snack Nomad"** reflecting country-specific grocery demand. Implemented product browsing and data processing features focused on user convenience, and designed a database structure to efficiently manage product information per country. Also applied image-classification-based functionality, gaining experience integrating machine learning into a service, and continuously discussed service flow and UX improvements with teammates.
 
 **Key Work**
 
