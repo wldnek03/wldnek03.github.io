@@ -40,6 +40,8 @@ content:
       tag: Web
     - name: IoT
       tag: IoT
+    - name: React
+      tag: React
       
 design:
   columns: '1'

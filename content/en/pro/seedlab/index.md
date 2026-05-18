@@ -7,8 +7,6 @@ image:
 
 [🌱 GitHub Repository](https://github.com/capstone-SeedLabSystem/SeedLabDigitalTwin_System)
 
-![Digital Twin Dashboard](featured.png)
-
 In charge of **backend development and server management** for a project that collects and monitors environmental data from a seed propagation lab in real time, visualizes the lab as a **3D digital twin**, and supports environment simulation and yield forecasting. Implementing a structure that reliably processes sensor data and delivers real-time information to users, continuously improving the system with attention to data flow and user usability. Through this project, strengthening operational problem-solving and collaborative communication skills.
 
 **Key Work**
