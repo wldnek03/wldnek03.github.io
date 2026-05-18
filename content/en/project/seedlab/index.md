@@ -1,10 +1,11 @@
 ---
-title: Seed Propagation Lab Environment Monitoring System (SW Capstone Design)
-summary: A system that collects and monitors environmental data from a seed propagation lab in real time. In charge of backend development and server management, implementing a reliable structure to process sensor data and deliver real-time information to users.
+title: Seed Lab Digital Twin (SW Capstone Design)
+summary: A system that collects and monitors environmental data from a seed propagation lab in real time and visualizes the lab as a 3D digital twin. Supports environment simulation and yield forecasting; in charge of backend development and server management.
 tags:
   - IoT
   - Backend
   - Capstone
+  - Digital Twin
 date: 2026-03-01
 external_link: ''
 ---
