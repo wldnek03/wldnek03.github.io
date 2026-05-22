@@ -1,11 +1,12 @@
 ---
 title: Seed Lab Digital Twin (SW Capstone Design)
-summary: A system that collects and monitors environmental data from a seed propagation lab in real time and visualizes the lab as a 3D digital twin. Supports environment simulation and yield forecasting; in charge of backend development and server management.
+summary: A system that collects and monitors environmental data from a seed propagation lab in real time and visualizes the lab as a 3D digital twin. Supports environment simulation, yield forecasting, and an LLM chatbot (Groq API); in charge of backend development and server management.
 tags:
   - IoT
   - Backend
   - Capstone
   - Digital Twin
+  - LLM
 date: 2026-03-01
 external_link: ''
 ---
