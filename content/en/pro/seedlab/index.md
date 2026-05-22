@@ -19,6 +19,8 @@ A seed propagation lab is a cultivation facility for systematically producing an
 - **Lot & growth management** — Tracks growth stage, quantity, and status per variety lot, with change-history management
 - **Sensor data graphs & reports** — Time-series queries by period, with hourly/daily aggregated graphs and reports
 
+![LLM chatbot "Farming AI Assistant" answering crop environment questions in natural language](chatbot.png)
+
 **My Role — Backend & Server Operations**
 
 - Implemented domain REST APIs (propagation lab, lot, sensor, alert) and JWT authentication/authorization (Viewer/Admin roles) with Spring Boot
