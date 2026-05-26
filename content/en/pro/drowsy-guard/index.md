@@ -1,6 +1,6 @@
 ---
 title: DrowsyGuard — Real-time Multi-signal Focus Management System
-date: 2026-05-27
+date: 2026-05-27T00:45:00+09:00
 image:
   focal_point: 'top'
 ---

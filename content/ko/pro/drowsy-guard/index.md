@@ -1,6 +1,6 @@
 ---
 title: DrowsyGuard — 실시간 다중 신호 기반 집중력 관리 시스템
-date: 2026-05-27
+date: 2026-05-27T00:45:00+09:00
 image:
   focal_point: 'top'
 ---
