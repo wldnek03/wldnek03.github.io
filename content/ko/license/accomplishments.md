@@ -15,11 +15,20 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
+    date_start: '2026-06-12'
+    description: '한국산업인력공단에서 주관하는 국가기술자격 SQL 개발자(SQLD) 자격증을 취득하였습니다. 데이터 모델링의 이해와 SQL 기본 및 활용 등 관계형 데이터베이스 설계와 질의 능력을 평가합니다.'
+    organization: 한국데이터산업진흥원
+    organization_url: https://www.dataq.or.kr
+    title: 🗄️SQL 개발자 (SQLD)
+    url: ''
+
+  - certificate_url: ''
+    date_end: ''
     date_start: '2026-04-01'
-    description: '한국산업인력공단에서 주관하는 정보처리기사 필기시험에 합격하였으며, 실기시험 응시 후 점수 발표를 기다리고 있습니다. 자료구조, 데이터베이스, 소프트웨어 공학, 운영체제, 정보통신 등 SW 개발 전반에 대한 지식을 평가합니다.'
+    description: '한국산업인력공단에서 주관하는 정보처리기사 자격증을 취득하였습니다. 자료구조, 데이터베이스, 소프트웨어 공학, 운영체제, 정보통신 등 SW 개발 전반에 대한 지식을 평가합니다.'
     organization: 한국산업인력공단
     organization_url: https://www.q-net.or.kr
-    title: 📝정보처리기사 (필기 합격 / 실기 결과 대기)
+    title: 📝정보처리기사
     url: ''
 
   - certificate_url: ''
