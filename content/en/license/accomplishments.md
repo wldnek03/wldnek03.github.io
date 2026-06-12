@@ -24,7 +24,7 @@ item:
 
   - certificate_url: ''
     date_end: ''
-    date_start: '2026-04-01'
+    date_start: '2026-06-12'
     description: 'Obtained the Engineer Information Processing (정보처리기사) certification, administered by HRD Korea. The exam assesses knowledge across software development, including data structures, databases, software engineering, operating systems, and communications.'
     organization: HRD Korea
     organization_url: https://www.q-net.or.kr

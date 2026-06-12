@@ -30,12 +30,6 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: LDPC coding
-      tag: LDPC
-    - name: Mobile Network
-      tag: Mobile
-    - name: Network Slicing
-      tag: Network
     - name: Web
       tag: Web
     - name: IoT
