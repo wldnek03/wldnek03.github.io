@@ -120,10 +120,28 @@ ul.network-icon .big-icon {
   display: inline-block;
   padding: 10px 20px;
   background-color: #8f9070;
-  color: white; 
-  text-decoration: none; 
-  border-radius: 5px; 
-  transition: background-color 0.3s, transform 0.3s; 
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+// Fix navbar brand/icon overlap below the lg breakpoint (tablet & mobile).
+// The theme stretches the mobile brand wrapper to full width, so the "JIWOO"
+// brand slides under the right-side search/theme/language icons. Constrain the
+// wrapper to a flex zone so the brand stays centered between the hamburger and
+// the icons instead of overlapping them.
+@media (max-width: 991.98px) {
+  #navbar-main .navbar-brand-mobile-wrapper {
+    flex: 1 1 0 !important;
+    min-width: 0 !important;
+  }
+  #navbar-main .navbar-brand-mobile-wrapper .navbar-brand {
+    margin: 0 auto !important;
+  }
+  #navbar-main .nav-icons {
+    flex: 0 0 auto !important;
+  }
 }
 
 .join-button:hover {
