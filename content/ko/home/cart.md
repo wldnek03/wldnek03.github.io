@@ -16,10 +16,10 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2026-04-01'
-    description: '한국산업인력공단에서 주관하는 정보처리기사 필기시험에 합격하였으며, 실기시험 응시 후 점수 발표를 기다리고 있습니다.'
+    description: '한국산업인력공단에서 주관하는 정보처리기사 자격증을 취득하였습니다.'
     organization: 한국산업인력공단
     organization_url: https://www.q-net.or.kr
-    title: 📝정보처리기사 (필기 합격 / 실기 결과 대기)
+    title: 📝정보처리기사
     url: ''
 
   - certificate_url: ''
