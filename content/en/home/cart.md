@@ -15,11 +15,20 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2026-04-01'
-    description: 'Passed the written examination of the Engineer Information Processing certification, administered by HRD Korea. Currently waiting for the practical exam results.'
+    date_start: '2026-06-12'
+    description: 'Obtained the SQL Developer (SQLD) national technical certification, administered by the Korea Data Agency (KDATA). It evaluates relational database design and querying skills, including data modeling concepts and the fundamentals and application of SQL.'
+    organization: Korea Data Agency
+    organization_url: https://www.dataq.or.kr
+    title: 🗄️SQL Developer (SQLD)
+    url: ''
+
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2026-06-12'
+    description: 'Obtained the Engineer Information Processing (정보처리기사) certification, administered by HRD Korea. The exam assesses knowledge across software development, including data structures, databases, software engineering, operating systems, and communications.'
     organization: HRD Korea
     organization_url: https://www.q-net.or.kr
-    title: 📝Engineer Information Processing (Written Passed / Practical Pending)
+    title: 📝Engineer Information Processing
     url: ''
 
   - certificate_url: ''
